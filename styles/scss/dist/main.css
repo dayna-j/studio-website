@@ -1,0 +1,66 @@
+.absolute-center {
+  /* Internet Explorer 10 */
+  display: -ms-flexbox;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  /* Firefox */
+  display: -moz-box;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+  /* Safari, Opera, and Chrome */
+  display: -webkit-box;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  /* W3C */
+  display: box;
+  box-pack: center;
+  box-align: center;
+}
+
+body {
+  background-color: #222020;
+}
+
+.container {
+  background-color: #222020;
+}
+
+.circle {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+header {
+  height: 95px;
+}
+
+nav {
+  height: 95px;
+}
+nav #main-nav {
+  height: 95px;
+}
+nav #main-nav ul {
+  height: 95px;
+  flex-grow: 1;
+}
+nav .nav-item {
+  background-color: orange;
+  height: 100%;
+}
+nav .nav-item:hover {
+  background-color: red;
+}
+
+.navbar-toggler {
+  font-size: 25px;
+  background: none;
+  border: none;
+  color: white;
+}
+
+.icon-bar {
+  background-color: white;
+}
