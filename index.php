@@ -41,7 +41,7 @@
 
     </section>
 
-    <section>
+    <section id='service-icons'>
         <div class="container">
         <div class="row">
 
@@ -54,32 +54,44 @@
                 <div class="row">
                     <div class="col">
                         <div class="row">
-                            <div class="col"></div>
-                            <div class="col"></div>
+                            <div class="col">
+                                <div class="circle"></div>
+                            </div>
+                            <div class="col"><h3>Mixing</h3></div>
                         </div>
                         <div class="row">
-                            <div class="col"></div>
-                            <div class="col"></div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="row">
-                            <div class="col"></div>
-                            <div class="col"></div>
-                        </div>
-                        <div class="row">
-                            <div class="col"></div>
-                            <div class="col"></div>
+                            <div class="col">
+                                <div class="circle"></div>
+                            </div>
+                            <div class="col"><h3>Mastering</h3></div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="row">
-                            <div class="col"></div>
-                            <div class="col"></div>
+                            <div class="col">
+                                <div class="circle"></div>
+                            </div>
+                            <div class="col"><h3>Post Production</h3></div>                        
                         </div>
                         <div class="row">
-                            <div class="col"></div>
-                            <div class="col"></div>
+                            <div class="col">
+                                <div class="circle"></div>
+                            </div>
+                            <div class="col"><h3>Sound Design</h3></div>                        
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="row">
+                            <div class="col">
+                            <div class="circle"></div>
+                            </div>
+                            <div class="col"><h3>Voice Over</h3></div>                        
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                            <div class="circle"></div>
+                            </div>
+                            <div class="col"><h3>Consultation</h3></div>                        
                         </div>
                     </div>
                 </div>
