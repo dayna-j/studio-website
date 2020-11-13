@@ -38,17 +38,16 @@ header{height: 95px;}
 
 nav{
     // background-color: rgb(163, 39, 39);
-    // margin: 0 !important;
-    // padding: 0 !important;
+    
     height: 95px;
     .navbar-brand{
-        // padding:0 !important;
-        // margin: 0 !important;
+
+        user-select: none !important;
+        -webkit-user-select: none;
     }
     #main-nav{
         height: 95px;
-        // width: 100%;
-        // margin: 0 !important;
+
         ul{
             height: 95px;
             flex-grow: 1;
@@ -57,8 +56,8 @@ nav{
     .nav-item{
         background-color: orange;
         height: 100%;
-        // padding-left: 25px;
-        // padding-right: 25px;
+        user-select: none !important;
+        -webkit-user-select: none;
 
         &:hover{
             background-color: red;
@@ -75,4 +74,63 @@ color: white;
 
 .icon-bar {
     background-color: rgb(255, 255, 255);
+}
+
+#background-overlay{
+    height: 196px;
+    // background-color: orchid;
+    background-image: url(../../sequencer2.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+
+
+
+ 
+/* 
+Extra small devices (portrait phones, less than 544px) 
+No media query since this is the default in Bootstrap because it is "mobile first"
+*/
+h1 {font-size:1rem;} /*1rem = 16px*/
+/*
+####################################################
+M E D I A  Q U E R I E S
+####################################################
+*/
+ 
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Bootstrap 4 breakpoints
+*/
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) {  
+  h1 {font-size:1.5rem;} /*1rem = 16px*/
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {  
+  h1 {font-size:2rem;} /*1rem = 16px*/
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  h1 {font-size:2.5rem;} /*1rem = 16px*/
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+  h1 {font-size:3rem;} /*1rem = 16px*/    
+}
+ 
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Custom media queries
+*/
+ 
+/* Set width to make card deck cards 100% width */
+@media (min-width: 950px) and (max-width:1100px) { 
+  h1 {font-size:2.75rem;color:red;} 
 }
