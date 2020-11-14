@@ -334,11 +334,11 @@
 
     <footer>
         <div class="footer-wrapper">
-            <div class="row">
+            <div class="footer-top row">
 
             </div>
-            <div class="row">
-                                
+            <div class="footer-bottom row">
+
             </div>
         </div>
     </footer>

@@ -55,6 +55,7 @@ nav .nav-item {
 }
 nav .nav-item:hover {
   background-color: red;
+  background-color: orchid;
 }
 
 .navbar-toggler {
@@ -93,8 +94,15 @@ footer {
   background-color: red;
 }
 
-footer div {
-  height: 100px;
+.footer-top {
+  height: 300px;
+  background-color: black;
+}
+
+.footer-bottom {
+  position: relative;
+  width: 100px;
+  background-color: orange;
 }
 
 /* 
