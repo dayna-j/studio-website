@@ -89,6 +89,14 @@ nav .nav-item:hover {
   font-size: 50px !important;
 }
 
+footer {
+  background-color: red;
+}
+
+footer div {
+  height: 100px;
+}
+
 /* 
 Extra small devices (portrait phones, less than 544px) 
 No media query since this is the default in Bootstrap because it is "mobile first"
