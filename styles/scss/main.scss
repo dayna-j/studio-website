@@ -167,16 +167,24 @@ footer{
     height:300px;
 }
 
-// .footer-top{
-//     height: 300px;
-//     // background-color: black;
-// }
+.footer-wrapper{
+    // background-color: pink;
+    height: 100%;
+    width: 100%;
+}
 
-// .footer-bottom{
-//     // position: relative;
-//     width: 100px;
-//     // background-color: orange;
-// }
+.footer-top{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+
+.footer-bottom{
+    // position: relative;
+    width: 100%;
+    height: 200px;
+    background-color: orange;
+}
  
 /* 
 Extra small devices (portrait phones, less than 544px) 

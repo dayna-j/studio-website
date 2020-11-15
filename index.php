@@ -372,12 +372,12 @@
 
     <footer>
         <div class="footer-wrapper">
-            <!-- <div class="footer-top row">
+            <div class="footer-top no-gutters row">
 
             </div>
-            <div class="footer-bottom row">
+            <div class="footer-bottom no-gutters row">
 
-            </div> -->
+            </div>
         </div>
     </footer>
 
