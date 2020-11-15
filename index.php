@@ -370,7 +370,7 @@
     </section>
 
 
-    <!-- <footer>
+    <footer>
         <div class="footer-wrapper">
             <!-- <div class="footer-top row">
 
@@ -379,7 +379,7 @@
 
             </div> -->
         </div>
-    </footer> -->
+    </footer>
 
     </div>
 </div>
