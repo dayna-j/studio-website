@@ -3,6 +3,15 @@
 
 <head>
     <title>Moonflower Productions</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff"> 
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,6 +26,7 @@
 
 </body>
 <div class="fluid-container">
+    <div class="page-wrapper">
     <header class="">
         <nav class="navbar navbar-expand-md navbar-dark">
             <div class="container">
@@ -43,14 +53,14 @@
 
     </section>
 
-    <section id='service-icons'>
+    <section id='service-icons' class='user-select-none'>
         <div class="container">
         <div class="row">
 
             <div class="col">
                 
                 <div class="row">
-                    <h2 class='p-4 text-white text-responsive mx-auto user-select-none' style=''>Full Scale Audio Production Services</h2>
+                    <h2 class='p-4 services-tag text-responsive mx-auto user-select-none' style=''>Full Scale Audio Production Services</h2>
                 </div>
 
                 <div class="row">
@@ -205,7 +215,31 @@
                         </div>
                         <div class="row">
                         <div class="col px-0 d-flex justify-content-center align-items-center">
-                                <div class="icon-container circle"></div>
+                                <div class="icon-container">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1" version="1.1" viewBox="0 0 24 30">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Adjustor settings, equalizer, equalizer settings, parameters, sound settings</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1460" x1="11.585" x2="11.585" y1="39.937" y2="-20.934" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00a000" offset="0"/>
+   <stop stop-color="#ff0" stop-opacity=".31048" offset="1"/>
+  </linearGradient>
+ </defs>
+ <title>Adjustor settings, equalizer, equalizer settings, parameters, sound settings</title>
+ <g>
+  <path d="M10,8a2,2,0,0,1,4,0V9h3V7H15.87a4,4,0,0,0-.44-1l.81-.81L14.83,3.76l-.8.8a4,4,0,0,0-1-.42V3H11V4.14a4,4,0,0,0-1,.42l-.8-.8L7.76,5.17,8.56,6a4,4,0,0,0-.44,1H7V9h3Z" fill="url(#linearGradient1460)"/>
+  <polygon points="10 11 8 11 8 12 2 12 2 14 8 14 8 15 10 15 10 14 22 14 22 12 10 12" fill="#00a000"/>
+  <polygon points="16 17 14 17 14 18 2 18 2 20 14 20 14 21 16 21 16 20 22 20 22 18 16 18" fill="#005600"/>
+ </g>
+</svg>                                    
+                                </div>
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Sound Design</h4>
@@ -280,7 +314,11 @@
                         </div>
                         <div class="row">
                         <div class="col px-0 d-flex justify-content-center align-items-center">
-                                <div class="icon-container circle"></div>
+                                <div class="icon-container">
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" x="0px" y="0px" viewBox="0 0 100 125" enable-background="new 0 0 100 100" xml:space="preserve" id="svg843" sodipodi:docname="post-prod3.svg" inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata id="metadata849"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><defs id="defs847"><linearGradient inkscape:collect="always" id="linearGradient883"><stop style="stop-color:#005600;stop-opacity:1" offset="0" id="stop879"/><stop style="stop-color:#a5b100;stop-opacity:0" offset="1" id="stop881"/></linearGradient><linearGradient inkscape:collect="always" xlink:href="#linearGradient883" id="linearGradient885" x1="49.5509" y1="93.263474" x2="49.5509" y2="10.628746" gradientUnits="userSpaceOnUse"/></defs><sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1035" id="namedview845" showgrid="false" inkscape:zoom="9.4469466" inkscape:cx="47.856695" inkscape:cy="53.343656" inkscape:window-x="0" inkscape:window-y="23" inkscape:window-maximized="1" inkscape:current-layer="svg843"/><path d="M 77.885742,22.990234 H 22.114258 c -2.682617,0 -4.864258,2.182618 -4.864258,4.865235 v 35.886719 c 0,2.68164 2.181641,4.863281 4.864258,4.863281 h 20.848633 v 6.904297 h -9.535157 c -0.414062,0 -0.75,0.335937 -0.75,0.75 0,0.414062 0.335938,0.75 0.75,0.75 h 10.285157 12.574218 10.285157 c 0.414062,0 0.75,-0.335938 0.75,-0.75 0,-0.414063 -0.335938,-0.75 -0.75,-0.75 h -9.535157 v -6.904297 h 20.848633 c 2.682617,0 4.864258,-2.181641 4.864258,-4.863281 V 27.855469 c 0,-2.682617 -2.181641,-4.865235 -4.864258,-4.865235 z m -55.771484,1.5 H 77.885742 C 79.741211,24.490234 81.25,26 81.25,27.855469 V 57.962891 H 18.75 V 27.855469 C 18.75,26 20.258789,24.490234 22.114258,24.490234 Z M 55.537109,75.509766 H 44.462891 V 68.605469 H 55.537109 Z M 77.885742,67.105469 H 56.287109 43.712891 22.114258 C 20.258789,67.105469 18.75,65.59668 18.75,63.742187 v -4.279296 h 62.5 v 4.279296 c 0,1.854493 -1.508789,3.363282 -3.364258,3.363282 z" id="path833" style="fill:url(#linearGradient885);fill-opacity:1;stroke:none;stroke-opacity:1"/><path d="m 44.980469,47.981445 c 0.116211,0.06738 0.245117,0.100586 0.375,0.100586 0.129883,0 0.258789,-0.0332 0.375,-0.100586 l 9.289062,-5.363281 c 0.232422,-0.133789 0.375,-0.381836 0.375,-0.649414 0,-0.267578 -0.142578,-0.515625 -0.375,-0.649414 l -9.289062,-5.363282 c -0.232422,-0.134765 -0.517578,-0.134765 -0.75,0 -0.232422,0.13379 -0.375,0.381836 -0.375,0.649415 v 10.726562 c 0,0.267578 0.142578,0.515625 0.375,0.649414 z m 1.125,-10.077148 7.039062,4.064453 -7.039062,4.064453 z" id="path835" style="fill:#d3d384;fill-opacity:1"/></svg>
+
+                                </div>
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Post Production</h4>
@@ -334,16 +372,16 @@
 
     <footer>
         <div class="footer-wrapper">
-            <div class="footer-top row">
+            <!-- <div class="footer-top row">
 
             </div>
             <div class="footer-bottom row">
 
-            </div>
+            </div> -->
         </div>
     </footer>
 
-
+    </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
