@@ -48,10 +48,11 @@ html{
 }
 
 body {
-    background-color: rgb(34, 32, 32);
+    background-color: #131511;
 }
-.container{
-    background-color: rgb(34, 32, 32);
+
+    .container{
+    // background-color: rgb(34, 32, 32);
 }
 
 .fluid-container{
@@ -63,7 +64,11 @@ body {
     // padding-bottom: 2.5rem;
 }
 
-header{height: 95px;}
+header{
+    height: 95px;
+    background-color: rgb(34, 32, 32);
+    border-bottom: 1px solid orchid;
+}
 
 .active{
     color:#f7d4ff !important;
@@ -73,15 +78,18 @@ header{height: 95px;}
 
 nav{
     // background-color: rgb(163, 39, 39);
+    border-bottom: 1px solid orchid;
     
     height: 95px;
     .navbar-brand{
         color:#f7d4ff !important;
         user-select: none !important;
         -webkit-user-select: none;
+        
     }
     #main-nav{
         height: 95px;
+        
 
         ul{
             height: 95px;
@@ -92,6 +100,7 @@ nav{
         // background-color: orange;
         background-color: rgb(34, 32, 32);
         // color:#f7d4ff;
+        border-bottom: 1px solid orchid;
 
         height: 100%;
         user-select: none !important;
@@ -150,6 +159,10 @@ color: white;
     background-position: center;
 }
 
+#carousel-section{
+    background-color: black;
+}
+
 .carousel-text{
     color: whitesmoke;
     font-family: 'Jim Nightshade', cursive;
@@ -160,11 +173,12 @@ color: white;
 
 footer{
     display: flex;
-    flex: 0 0 auto;
+    // flex: 0 0 auto;
     background-color: red;
     bottom: 0;
     width: 100%;
-    height:500px;
+    // height:500px;
+    border-top: 1px solid orchid;
 }
 
 .footer-wrapper{
@@ -177,6 +191,8 @@ footer{
     height: 200px;
     width: 100%;
     background-color: black;
+    background-color: #131511;
+
 }
 
 .footer-bottom{
@@ -185,8 +201,25 @@ footer{
     height: 100px;
     // background-color: orange;
     background-color: pink;
+    background-color: black;
 }
- 
+
+.divider{
+    border: 5px solid white;
+    width: 300px;
+    padding:0;
+    margin:0;
+}
+
+.copyright-wrapper{
+    width: 100%;
+}
+
+.copyright{
+    // border-top: .4px dotted white;
+    padding: 0;
+    margin: 0;
+}
 /* 
 Extra small devices (portrait phones, less than 544px) 
 No media query since this is the default in Bootstrap because it is "mobile first"
