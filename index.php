@@ -218,13 +218,6 @@
                                 <div class="icon-container">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1" version="1.1" viewBox="0 0 24 30">
  <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Adjustor settings, equalizer, equalizer settings, parameters, sound settings</dc:title>
-   </cc:Work>
-  </rdf:RDF>
  </metadata>
  <defs>
   <linearGradient id="linearGradient1460" x1="11.585" x2="11.585" y1="39.937" y2="-20.934" gradientUnits="userSpaceOnUse">
@@ -375,11 +368,20 @@
             <div class="footer-top no-gutters row">
 
             </div>
-            <div class="d-flex flex-column justify-content-end footer-bottom no-gutters row">
+            <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
                 <div class="d-flex justify-content-center divider-wrapper">
-                    <p class='divider'></p>
+                    
+                    <svg id='flourish' xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" viewBox="0 0 657.82749 24.934974" version="1.1" sodipodi:docname="Underline-Flourish.svg" width="657.82751" height="24.934975" inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <defs id="defs866"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1718" inkscape:window-height="839" id="namedview864" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.84663626" inkscape:cx="326.52554" inkscape:cy="115.90088" inkscape:window-x="1946" inkscape:window-y="124" inkscape:window-maximized="0" inkscape:current-layer="svg2" inkscape:document-rotation="0"/>
+  <g id="g4257" transform="matrix(2.7705,0,0,2.9079,-704.03946,-611.42596)" style="fill:#212529;fill-opacity:1">
+    <path id="path4259" d="m 358.57,218.22 c 4.3635,-0.63392 3.5955,-6.61 0,-7.3393 -34.106,3.3914 -69.127,2.3193 -104.45,3.7983 35.154,1.5334 69.298,-0.57635 104.45,3.541 z" style="fill:#212529;fill-opacity:1"/>
+    <path id="path4261" transform="matrix(1,0,0,1.0439,-1.0871,-9.929)" d="m 378.21,215.04 c 0,2.2683 -1.9188,4.1071 -4.2857,4.1071 -2.3669,0 -4.2857,-1.8388 -4.2857,-4.1071 0,-2.2683 1.9188,-4.1072 4.2857,-4.1072 2.3669,0 4.2857,1.8388 4.2857,4.1072 z" style="fill:#212529;fill-opacity:1"/>
+    <path id="path4263" d="m 387.11,218.22 c -4.3635,-0.63392 -3.5955,-6.61 0,-7.3393 34.106,3.3914 69.127,2.3193 104.45,3.7983 -35.154,1.5334 -69.298,-0.57635 -104.45,3.541 z" style="fill:#212529;fill-opacity:1"/>
+  </g>
+</svg>
                 </div>
-                <div class="d-flex flex-column justify-content-end copyright-wrapper">
+                <div class="d-flex flex-column justify-content-end copyright-wrapper user-select-none">
                     <p class='d-flex justify-content-center copyright'>© <?php echo date("Y"); ?> Copyright Moonflower Productions</p> 
                 </div>
             </div>
