@@ -161,12 +161,16 @@ footer {
   padding: 0 20px 0 20px;
 }
 
+#fb-icon:hover {
+  fill: #8a6c9c;
+}
+
 .copyright-wrapper {
   width: 100%;
 }
 
-#flourish {
-  width: 350px;
+.flourish {
+  width: 370px;
   margin: 10px;
 }
 
