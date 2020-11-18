@@ -24,164 +24,154 @@
     <link rel="stylesheet" href="./styles/scss/dist/main.css">
 </head>
 
-</body>
-<div class="fluid-container">
-    <div class="page-wrapper">
-    <header class="">
-        <nav class="navbar navbar-expand-md navbar-dark">
-            <div class="container">
-                <a href="#" class="navbar-brand">Moonflower Productions</a>
-                <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" aria-expanded="false"
-                    data-target="#main-nav">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+<body>
+    <div class="fluid-container">
+        <div class="page-wrapper">
+            <header class="">
+                <nav class="navbar navbar-expand-md navbar-dark">
+                    <div class="container">
+                        <a href="#" class="navbar-brand">Moonflower Productions</a>
+                        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" aria-expanded="false" data-target="#main-nav">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
 
-                <div id="main-nav" class="collapse navbar-collapse">
-                    <ul class="navbar-nav justify-content-lg-center">
-                        <li><a href="#" class="px-3 nav-item nav-link active absolute-center">About</a></li>
-                        <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mixing</a></li>
-                        <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mastering</a></li>
-                        <li><a href="#" class="px-3 nav-item nav-link absolute-center">Consultation</a></li>
-                        <li><a href="#" class="px-3 nav-item nav-link absolute-center">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-
-    <section id='background-overlay' style='background-image: url("./img/mixer2.jpg");")' class='w-100'>
-
-    </section>
-
-    <section id='service-icons' class='user-select-none'>
-
-        <div class="container">
-            <div class="row">
-
-                <div class="col">
-                
-                    <div class="row">
-                        <h2 class='p-4 services-tag text-responsive mx-auto user-select-none' style=''>Full Scale Audio Production Services</h2>
-                    </div>
-
-                    <div class="row">
-                        <div class="col">
-                            <div class="row">
-                                <div class="col px-0 d-flex justify-content-center align-items-center">
-                                   <div class="icon-container">
-
-                                    <?xml version="1.0" encoding="UTF-8"?>
-                                    <svg version="1.1" viewBox="0 0 100 125">
-                                        <path d="m5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                        <path d="m5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                        <path d="m5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m18.125 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                        <path d="m18.125 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                        <path d="m18.125 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m18.125 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m18.125 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m18.125 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m18.125 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m18.125 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m18.125 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m18.125 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m31.25 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                        <path d="m31.25 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                        <path d="m31.25 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m31.25 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m31.25 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m31.25 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m31.25 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m31.25 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m31.25 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m31.25 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m44.375 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                        <path d="m44.375 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                        <path d="m44.375 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m44.375 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m44.375 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m44.375 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m44.375 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m44.375 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m44.375 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m44.375 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m31.25 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m31.25 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m31.25 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                        <path d="m31.25 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                        <path d="m44.375 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m44.375 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m44.375 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                        <path d="m44.375 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                        <path d="m44.375 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
-                                        <path d="m44.375 36.875h11.25v1.875h-11.25z" fill="#eef8d9"/>
-                                        <path d="m44.375 33.125h11.25v1.875h-11.25z" fill="#f2fbe0"/>
-                                        <path d="m44.375 29.375h11.25v1.875h-11.25z" fill="#f2fbe0"/>
-                                        <path d="m44.375 25.625h11.25v1.875h-11.25z" fill="#f4fee3"/>
-                                        <path d="m57.5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                        <path d="m57.5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                        <path d="m57.5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m57.5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m57.5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m57.5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m57.5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m57.5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m57.5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m57.5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m70.625 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                        <path d="m70.625 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                        <path d="m70.625 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m70.625 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m70.625 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m70.625 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m70.625 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m70.625 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m70.625 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m70.625 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                        <path d="m57.5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m57.5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m70.625 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m70.625 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                        <path d="m70.625 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                        <path d="m70.625 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                        <path d="m70.625 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
-                                        <path d="m83.75 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                        <path d="m83.75 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                        <path d="m83.75 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m83.75 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                        <path d="m83.75 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m83.75 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                        <path d="m83.75 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m83.75 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                        <path d="m83.75 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                    </svg>
-
-                                </div>
-                            </div>
-                            <div class="col">
-                                <h4 class='service-label'>Mixing</h4>
-                                <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
-                            </div>
+                        <div id="main-nav" class="collapse navbar-collapse">
+                            <ul class="navbar-nav justify-content-lg-center">
+                                <li><a href="#" class="px-3 nav-item nav-link active absolute-center">About</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mixing</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mastering</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Consultation</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Contact</a></li>
+                            </ul>
                         </div>
+                    </div>
+                </nav>
+            </header>
+
+        <section id='background-overlay' style='background-image: url("./img/mixer2.jpg");")' class='w-100'>
+        </section>
+
+        <section id='service-icons' class='user-select-none'>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col">
                         <div class="row">
-                        <div class="col px-0 d-flex justify-content-center align-items-center">
+                            <h2 class='p-4 services-tag text-responsive mx-auto user-select-none' style=''>Full Scale Audio Production Services</h2>
+                        </div>
 
-                                <div class="icon-container">
-                                <?xml version="1.0" encoding="UTF-8"?>
-<svg enable-background="new 0 0 512 512" version="1.1" viewBox="0 0 512 640" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g fill="#005600" stroke="#000" stroke-width="1.0016"><path d="m156.05 295.01c-1.657 0-3-1.343-3-3v-68c0-1.657 1.343-3 3-3s3 1.343 3 3v68c0 1.657-1.343 3-3 3z" fill="#005600" stroke="#000" stroke-width="1.0016"/></g><g fill="#008c00" stroke="#000" stroke-width="1.0016"><path d="m183.05 306.01c-1.657 0-3-1.343-3-3v-90c0-1.657 1.343-3 3-3s3 1.343 3 3v90c0 1.657-1.343 3-3 3z" fill="#008c00" stroke="#000" stroke-width="1.0016"/></g><g fill="#00ad00" stroke="#000" stroke-width="1.0016"><path d="m210.05 322.01c-1.657 0-3-1.343-3-3v-121c0-1.657 1.343-3 3-3s3 1.343 3 3v121c0 1.657-1.343 3-3 3z" fill="#00ad00" stroke="#000" stroke-width="1.0016"/></g><g fill="#00d200" stroke="#000" stroke-width="1.0016"><path d="m237.05 335.01c-1.657 0-3-1.343-3-3v-147c0-1.657 1.343-3 3-3s3 1.343 3 3v147c0 1.657-1.343 3-3 3z" fill="#00d200" stroke="#000" stroke-width="1.0016"/></g><g fill="#b7f700" stroke="#000" stroke-width="1.0016"><path d="m292.05 309.01c-1.657 0-3-1.343-3-3v-95c0-1.657 1.343-3 3-3s3 1.343 3 3v95c0 1.657-1.343 3-3 3z" fill="#b7f700" stroke="#000" stroke-width="1.0016"/></g><g fill="#d4ff5a" stroke="#000" stroke-width="1.0016"><path d="m319.05 296.01c-1.657 0-3-1.343-3-3v-70c0-1.657 1.343-3 3-3s3 1.343 3 3v70c0 1.657-1.343 3-3 3z" fill="#d4ff5a" stroke="#000" stroke-width="1.0016"/></g><g fill="#effdc8" stroke="#000" stroke-width="1.0016"><path d="m346.05 283.01c-1.657 0-3-1.343-3-3v-44c0-1.657 1.343-3 3-3s3 1.343 3 3v44c0 1.657-1.343 3-3 3z" fill="#effdc8" stroke="#000" stroke-width="1.0016"/></g><g fill="#0eff0e" stroke="#000" stroke-width="1.0016"><path d="m265.05 352.01c-1.657 0-3-1.343-3-3v-181c0-1.657 1.343-3 3-3s3 1.343 3 3v181c0 1.657-1.343 3-3 3z" fill="#0eff0e" stroke="#000" stroke-width="1.0016"/></g><g><path d="m450.05 261.01h-398c-1.657 0-3-1.343-3-3s1.343-3 3-3h398c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#00a000"><path d="m486.05 371.01h-36c-1.657 0-3-1.343-3-3v-262h-360c-1.657 0-3-1.343-3-3v-25c0-1.657 1.343-3 3-3h399c1.657 0 3 1.343 3 3v290c0 1.657-1.343 3-3 3zm-33-6h30v-284h-393v19h360c1.657 0 3 1.343 3 3z" fill="#00a000"/></g><g fill="#005600"><path d="m450.05 395.01h-398c-1.657 0-3-1.343-3-3v-289c0-1.657 1.343-3 3-3h398c1.657 0 3 1.343 3 3v289c0 1.657-1.343 3-3 3zm-395-6h392v-283h-392z" fill="#005600"/></g><g fill="#005600"><path d="m450.05 143.01h-377c-1.657 0-3-1.343-3-3s1.343-3 3-3h377c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#00a000"><path d="m332.05 419.01h-223c-1.657 0-3-1.343-3-3s1.343-3 3-3h223c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#00a000"/></g><g fill="#00a000"><path d="m435.05 419.01h-64c-1.657 0-3-1.343-3-3s1.343-3 3-3h64c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#00a000"/></g><g fill="#005600"><path d="m356.05 437.01h-144c-1.657 0-3-1.343-3-3s1.343-3 3-3h144c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#005600"><path d="m93.05 437.01h-63c-1.657 0-3-1.343-3-3s1.343-3 3-3h63c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#005600"><path d="m178.05 437.01h-29c-1.657 0-3-1.343-3-3s1.343-3 3-3h29c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#005600"><path d="m26.05 207.01c-1.657 0-3-1.343-3-3v-118c0-1.657 1.343-3 3-3h37c1.657 0 3 1.343 3 3s-1.343 3-3 3h-34v115c0 1.657-1.343 3-3 3z" fill="#005600"/></g></svg>
-
-
+                        <div class="row">
+                            <div class="col">
+                                <div class="row">
+                                    <div class="col px-0 d-flex justify-content-center align-items-center">
+                                        <div class="icon-container">
+                                            <svg version="1.1" viewBox="0 0 100 125">
+                                                <path d="m5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m18.125 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m18.125 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m18.125 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m18.125 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m18.125 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m18.125 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m18.125 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m18.125 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m18.125 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m18.125 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m31.25 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m31.25 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m31.25 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m31.25 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m31.25 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m31.25 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m31.25 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m31.25 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m31.25 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m31.25 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m44.375 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m44.375 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m44.375 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m44.375 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m44.375 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m44.375 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m44.375 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m44.375 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m44.375 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m44.375 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m31.25 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m31.25 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m31.25 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m31.25 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m44.375 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m44.375 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m44.375 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m44.375 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m44.375 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
+                                                <path d="m44.375 36.875h11.25v1.875h-11.25z" fill="#eef8d9"/>
+                                                <path d="m44.375 33.125h11.25v1.875h-11.25z" fill="#f2fbe0"/>
+                                                <path d="m44.375 29.375h11.25v1.875h-11.25z" fill="#f2fbe0"/>
+                                                <path d="m44.375 25.625h11.25v1.875h-11.25z" fill="#f4fee3"/>
+                                                <path d="m57.5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m57.5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m57.5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m57.5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m57.5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m57.5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m57.5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m57.5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m57.5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m57.5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m70.625 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m70.625 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m70.625 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m70.625 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m70.625 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m70.625 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m70.625 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m70.625 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m70.625 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m70.625 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m57.5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m57.5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m70.625 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m70.625 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m70.625 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m70.625 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m70.625 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
+                                                <path d="m83.75 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m83.75 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m83.75 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m83.75 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m83.75 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m83.75 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m83.75 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m83.75 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m83.75 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <h4 class='service-label'>Mixing</h4>
+                                        <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
+                                    </div>
                                 </div>
-                            </div>
+                                <div class="row">
+                                    <div class="col px-0 d-flex justify-content-center align-items-center">
+
+                                        <div class="icon-container">
+                                            <svg enable-background="new 0 0 512 512" version="1.1" viewBox="0 0 512 640" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g fill="#005600" stroke="#000" stroke-width="1.0016"><path d="m156.05 295.01c-1.657 0-3-1.343-3-3v-68c0-1.657 1.343-3 3-3s3 1.343 3 3v68c0 1.657-1.343 3-3 3z" fill="#005600" stroke="#000" stroke-width="1.0016"/></g><g fill="#008c00" stroke="#000" stroke-width="1.0016"><path d="m183.05 306.01c-1.657 0-3-1.343-3-3v-90c0-1.657 1.343-3 3-3s3 1.343 3 3v90c0 1.657-1.343 3-3 3z" fill="#008c00" stroke="#000" stroke-width="1.0016"/></g><g fill="#00ad00" stroke="#000" stroke-width="1.0016"><path d="m210.05 322.01c-1.657 0-3-1.343-3-3v-121c0-1.657 1.343-3 3-3s3 1.343 3 3v121c0 1.657-1.343 3-3 3z" fill="#00ad00" stroke="#000" stroke-width="1.0016"/></g><g fill="#00d200" stroke="#000" stroke-width="1.0016"><path d="m237.05 335.01c-1.657 0-3-1.343-3-3v-147c0-1.657 1.343-3 3-3s3 1.343 3 3v147c0 1.657-1.343 3-3 3z" fill="#00d200" stroke="#000" stroke-width="1.0016"/></g><g fill="#b7f700" stroke="#000" stroke-width="1.0016"><path d="m292.05 309.01c-1.657 0-3-1.343-3-3v-95c0-1.657 1.343-3 3-3s3 1.343 3 3v95c0 1.657-1.343 3-3 3z" fill="#b7f700" stroke="#000" stroke-width="1.0016"/></g><g fill="#d4ff5a" stroke="#000" stroke-width="1.0016"><path d="m319.05 296.01c-1.657 0-3-1.343-3-3v-70c0-1.657 1.343-3 3-3s3 1.343 3 3v70c0 1.657-1.343 3-3 3z" fill="#d4ff5a" stroke="#000" stroke-width="1.0016"/></g><g fill="#effdc8" stroke="#000" stroke-width="1.0016"><path d="m346.05 283.01c-1.657 0-3-1.343-3-3v-44c0-1.657 1.343-3 3-3s3 1.343 3 3v44c0 1.657-1.343 3-3 3z" fill="#effdc8" stroke="#000" stroke-width="1.0016"/></g><g fill="#0eff0e" stroke="#000" stroke-width="1.0016"><path d="m265.05 352.01c-1.657 0-3-1.343-3-3v-181c0-1.657 1.343-3 3-3s3 1.343 3 3v181c0 1.657-1.343 3-3 3z" fill="#0eff0e" stroke="#000" stroke-width="1.0016"/></g><g><path d="m450.05 261.01h-398c-1.657 0-3-1.343-3-3s1.343-3 3-3h398c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#00a000"><path d="m486.05 371.01h-36c-1.657 0-3-1.343-3-3v-262h-360c-1.657 0-3-1.343-3-3v-25c0-1.657 1.343-3 3-3h399c1.657 0 3 1.343 3 3v290c0 1.657-1.343 3-3 3zm-33-6h30v-284h-393v19h360c1.657 0 3 1.343 3 3z" fill="#00a000"/></g><g fill="#005600"><path d="m450.05 395.01h-398c-1.657 0-3-1.343-3-3v-289c0-1.657 1.343-3 3-3h398c1.657 0 3 1.343 3 3v289c0 1.657-1.343 3-3 3zm-395-6h392v-283h-392z" fill="#005600"/></g><g fill="#005600"><path d="m450.05 143.01h-377c-1.657 0-3-1.343-3-3s1.343-3 3-3h377c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#00a000"><path d="m332.05 419.01h-223c-1.657 0-3-1.343-3-3s1.343-3 3-3h223c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#00a000"/></g><g fill="#00a000"><path d="m435.05 419.01h-64c-1.657 0-3-1.343-3-3s1.343-3 3-3h64c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#00a000"/></g><g fill="#005600"><path d="m356.05 437.01h-144c-1.657 0-3-1.343-3-3s1.343-3 3-3h144c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#005600"><path d="m93.05 437.01h-63c-1.657 0-3-1.343-3-3s1.343-3 3-3h63c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#005600"><path d="m178.05 437.01h-29c-1.657 0-3-1.343-3-3s1.343-3 3-3h29c1.657 0 3 1.343 3 3s-1.343 3-3 3z" fill="#005600"/></g><g fill="#005600"><path d="m26.05 207.01c-1.657 0-3-1.343-3-3v-118c0-1.657 1.343-3 3-3h37c1.657 0 3 1.343 3 3s-1.343 3-3 3h-34v115c0 1.657-1.343 3-3 3z" fill="#005600"/></g></svg>
+                                        </div>
+                                    </div>
                             <div class="col">
                                 <h4 class='service-label'>Mastering</h4>
                                 <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
@@ -378,14 +368,14 @@
 
                     <div class="social-icon">
 
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	                    width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-                        <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M24,16.6
-	                    c0,1.3-0.2,2.6-0.2,2.6s-0.2,1.1-0.6,1.6c-0.6,0.6-1.3,0.6-1.6,0.7c-2.2,0.2-5.6,0.2-5.6,0.2s-4.2,0-5.4-0.2c-0.4-0.1-1.2,0-1.8-0.7
-	                    c-0.5-0.5-0.6-1.6-0.6-1.6S8,17.9,8,16.6v-1.2c0-1.3,0.2-2.6,0.2-2.6s0.2-1.1,0.6-1.6c0.6-0.6,1.3-0.6,1.6-0.7
-	                    c2.2-0.2,5.6-0.2,5.6-0.2h0c0,0,3.4,0,5.6,0.2c0.3,0,1,0,1.6,0.7c0.5,0.5,0.6,1.6,0.6,1.6s0.2,1.3,0.2,2.6V16.6z"/>
-                        <polygon fill="#444444" points="14.3,18.1 18.7,15.8 14.3,13.6 "/>
-                    </svg>                           
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M24,16.6
+	                        c0,1.3-0.2,2.6-0.2,2.6s-0.2,1.1-0.6,1.6c-0.6,0.6-1.3,0.6-1.6,0.7c-2.2,0.2-5.6,0.2-5.6,0.2s-4.2,0-5.4-0.2c-0.4-0.1-1.2,0-1.8-0.7
+	                        c-0.5-0.5-0.6-1.6-0.6-1.6S8,17.9,8,16.6v-1.2c0-1.3,0.2-2.6,0.2-2.6s0.2-1.1,0.6-1.6c0.6-0.6,1.3-0.6,1.6-0.7
+	                        c2.2-0.2,5.6-0.2,5.6-0.2h0c0,0,3.4,0,5.6,0.2c0.3,0,1,0,1.6,0.7c0.5,0.5,0.6,1.6,0.6,1.6s0.2,1.3,0.2,2.6V16.6z"/>
+                            <polygon fill="#444444" points="14.3,18.1 18.7,15.8 14.3,13.6 "/>
+                        </svg>                           
 
                     </div>
                     <div class="social-icon">
