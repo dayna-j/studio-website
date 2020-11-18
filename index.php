@@ -60,111 +60,109 @@
                                 <h2 class='p-4 services-tag text-responsive mx-auto user-select-none' style=''>Full Scale Audio Production Services</h2>
                             </div>
 
-                            <div class="row">
-                                <div class="col">
-                                    <div class="row">
-                                        <div class="col px-0 d-flex justify-content-center align-items-center">
-                                            <div class="icon-container">
-                                                <svg version="1.1" viewBox="0 0 100 125">
-                                                    <path d="m5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                                    <path d="m5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                                    <path d="m5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m18.125 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                                    <path d="m18.125 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                                    <path d="m18.125 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m18.125 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m18.125 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m18.125 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m18.125 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m18.125 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m18.125 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m18.125 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m31.25 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                                    <path d="m31.25 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                                    <path d="m31.25 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m31.25 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m31.25 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m31.25 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m31.25 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m31.25 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m31.25 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m31.25 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m44.375 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                                    <path d="m44.375 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                                    <path d="m44.375 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m44.375 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m44.375 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m44.375 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m44.375 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m44.375 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m44.375 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m44.375 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m31.25 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m31.25 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m31.25 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                                    <path d="m31.25 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                                    <path d="m44.375 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m44.375 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m44.375 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                                    <path d="m44.375 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                                    <path d="m44.375 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
-                                                    <path d="m44.375 36.875h11.25v1.875h-11.25z" fill="#eef8d9"/>
-                                                    <path d="m44.375 33.125h11.25v1.875h-11.25z" fill="#f2fbe0"/>
-                                                    <path d="m44.375 29.375h11.25v1.875h-11.25z" fill="#f2fbe0"/>
-                                                    <path d="m44.375 25.625h11.25v1.875h-11.25z" fill="#f4fee3"/>
-                                                    <path d="m57.5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                                    <path d="m57.5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                                    <path d="m57.5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m57.5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m57.5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m57.5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m57.5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m57.5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m57.5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m57.5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m70.625 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                                    <path d="m70.625 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                                    <path d="m70.625 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m70.625 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m70.625 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m70.625 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m70.625 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m70.625 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m70.625 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m70.625 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                    <path d="m57.5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m57.5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m70.625 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m70.625 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
-                                                    <path d="m70.625 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                                    <path d="m70.625 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
-                                                    <path d="m70.625 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
-                                                    <path d="m83.75 93.125h11.25v1.875h-11.25z" fill="#142616"/>
-                                                    <path d="m83.75 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
-                                                    <path d="m83.75 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m83.75 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
-                                                    <path d="m83.75 78.125h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m83.75 74.375h11.25v1.875h-11.25z" fill="#297134"/>
-                                                    <path d="m83.75 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m83.75 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
-                                                    <path d="m83.75 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
-                                                </svg>
-                                            </div>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row">
+                                    <div class="col px-0 d-flex justify-content-center align-items-center">
+                                        <div class="icon-container">
+                                            <svg version="1.1" viewBox="0 0 100 125">
+                                                <path d="m5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m18.125 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m18.125 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m18.125 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m18.125 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m18.125 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m18.125 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m18.125 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m18.125 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m18.125 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m18.125 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m31.25 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m31.25 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m31.25 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m31.25 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m31.25 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m31.25 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m31.25 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m31.25 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m31.25 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m31.25 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m44.375 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m44.375 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m44.375 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m44.375 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m44.375 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m44.375 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m44.375 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>                                                    <path d="m44.375 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m44.375 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m44.375 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m31.25 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m31.25 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m31.25 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m31.25 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m44.375 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m44.375 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m44.375 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m44.375 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m44.375 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
+                                                <path d="m44.375 36.875h11.25v1.875h-11.25z" fill="#eef8d9"/>
+                                                <path d="m44.375 33.125h11.25v1.875h-11.25z" fill="#f2fbe0"/>
+                                                <path d="m44.375 29.375h11.25v1.875h-11.25z" fill="#f2fbe0"/>
+                                                <path d="m44.375 25.625h11.25v1.875h-11.25z" fill="#f4fee3"/>
+                                                <path d="m57.5 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m57.5 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m57.5 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m57.5 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m57.5 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m57.5 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m57.5 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m57.5 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m57.5 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m57.5 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m70.625 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m70.625 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m70.625 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m70.625 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m70.625 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m70.625 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m70.625 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m70.625 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m70.625 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m70.625 59.375h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                                <path d="m57.5 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m57.5 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>                                                    <path d="m70.625 55.625h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m70.625 51.875h11.25v1.875h-11.25z" fill="#b1e24e"/>
+                                                <path d="m70.625 48.125h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m70.625 44.375h11.25v1.875h-11.25z" fill="#e2f5bd"/>
+                                                <path d="m70.625 40.625h11.25v1.875h-11.25z" fill="#eef8d9"/>
+                                                <path d="m83.75 93.125h11.25v1.875h-11.25z" fill="#142616"/>
+                                                <path d="m83.75 89.375h11.25v1.875h-11.25z" fill="#153a1b"/>
+                                                <path d="m83.75 85.625h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m83.75 81.875h11.25v1.875h-11.25z" fill="#1d5025"/>
+                                                <path d="m83.75 78.125h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m83.75 74.375h11.25v1.875h-11.25z" fill="#297134"/>
+                                                <path d="m83.75 70.625h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m83.75 66.875h11.25v1.875h-11.25z" fill="#3ba14b"/>
+                                                <path d="m83.75 63.125h11.25v1.875h-11.25z" fill="#45bc5a"/>
+                                            </svg>
                                         </div>
-                                        <div class="col">
+                                    </div>
+                                    <div class="col">
                                         <h4 class='service-label'>Mixing</h4>
                                         <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
                                     </div>
-                                </div> <!-- close col -->
+                                </div> <!-- close row -->
                                 <div class="row">
                                     <div class="col px-0 d-flex justify-content-center align-items-center">
 
@@ -177,8 +175,8 @@
                                         <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
                                     </div>
                                 </div>
-                            </div> <!-- close row -->
-                    <div class="col">
+                            </div> <!-- close col -->
+                            <div class="col">
                         <div class="row">
                             <div class="col px-0 d-flex justify-content-center align-items-center">
                                 <div class="icon-container">
@@ -290,130 +288,119 @@
             </section>
 
 
-    <section id='carousel-section'>
-        <div class="row">
-            <div class="col">
-            <div id="carouselContent" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselContent" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselContent" data-slide-to="1"></li>
-                <li data-target="#carouselContent" data-slide-to="2"></li>
-            </ol>
-        <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active text-center p-4">
-                 <p class="p-4 carousel-text">lorem ipsum (imagine longer text)</p>
-            </div>
-            <div class="carousel-item text-center p-4">
-                
-                <p class="p-4 carousel-text">lorem ipsum (imagine longer text)</p>
-            </div>
-            <div class="carousel-item text-center p-4">
-                
-                <p class="p-4 carousel-text">lorem ipsum (imagine longer text)</p>
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselContent" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselContent" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-            </div>
-        </div>
-    </section>
+            <section id='carousel-section'>
+                <div class="row">
+                    <div class="col">
+                        <div id="carouselContent" class="carousel slide" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carouselContent" data-slide-to="0" class="active"></li>
+                                <li data-target="#carouselContent" data-slide-to="1"></li>
+                                <li data-target="#carouselContent" data-slide-to="2"></li>
+                            </ol>
+                            <div class="carousel-inner" role="listbox">
+                                <div class="carousel-item active text-center p-4">
+                                    <p class="p-4 carousel-text">lorem ipsum (imagine longer text)</p>
+                                </div>
+                                <div class="carousel-item text-center p-4">
+                                    <p class="p-4 carousel-text">lorem ipsum (imagine longer text)</p>
+                                </div>
+                                <div class="carousel-item text-center p-4">
+                                    <p class="p-4 carousel-text">lorem ipsum (imagine longer text)</p>
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselContent" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselContent" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
 
-    <footer>
-        <div class="footer-wrapper">
-            <div class="footer-top no-gutters row">
-
-            </div>
-            <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
-            <div class="col">
-            <div class="social-container">
-                <div class="social-container-wrapper d-flex justify-content-center">
-                    <div class="social-icon">
-
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	                    width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-                        <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M8.4,19.1c0,0-0.1,0.1-0.1,0.1
-	                    c-0.1,0-0.1,0-0.1-0.1l-0.3-1.5l0.3-1.5c0,0,0.1-0.1,0.1-0.1c0.1,0,0.1,0,0.1,0.1l0.4,1.5L8.4,19.1z M11.1,19.5L11.1,19.5
-	                    c0,0.1-0.1,0.1-0.3,0.1c-0.2,0-0.3-0.1-0.3-0.1l-0.3-1.8l0.3-2.7c0-0.1,0.1-0.1,0.3-0.1c0.1,0,0.3,0.1,0.3,0.1l0.3,2.7L11.1,19.5z
-	                    M14.1,19.4L14.1,19.4c0,0.1-0.2,0.2-0.5,0.2c-0.3,0-0.5-0.1-0.5-0.2l-0.3-1.7l0.3-3.7c0-0.1,0.2-0.2,0.5-0.2c0.3,0,0.5,0.1,0.5,0.2
-	                    l0.3,3.7L14.1,19.4z M22,19.6c0,0-5.6,0-5.6,0c-0.1,0-0.2-0.1-0.2-0.2v-6.5c0-0.1,0-0.2,0.2-0.2c0.4-0.2,0.8-0.2,1.3-0.2
-	                    c1.9,0,3.4,1.4,3.6,3.3c0.2-0.1,0.5-0.2,0.8-0.2c1.1,0,2,0.9,2,2C24,18.7,23.1,19.6,22,19.6z"/>
-                    </svg>
+            <footer>
+                <div class="footer-wrapper">
+                    <div class="footer-top no-gutters row">
 
                     </div>
-                    <div class="social-icon">
+                    <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
+                        <div class="col">
+                            <div class="social-container">
+                                <div class="social-container-wrapper d-flex justify-content-center">
+                                    <div class="social-icon">
+                                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	                                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+                                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M8.4,19.1c0,0-0.1,0.1-0.1,0.1
+	                                        c-0.1,0-0.1,0-0.1-0.1l-0.3-1.5l0.3-1.5c0,0,0.1-0.1,0.1-0.1c0.1,0,0.1,0,0.1,0.1l0.4,1.5L8.4,19.1z M11.1,19.5L11.1,19.5
+	                                        c0,0.1-0.1,0.1-0.3,0.1c-0.2,0-0.3-0.1-0.3-0.1l-0.3-1.8l0.3-2.7c0-0.1,0.1-0.1,0.3-0.1c0.1,0,0.3,0.1,0.3,0.1l0.3,2.7L11.1,19.5z
+	                                        M14.1,19.4L14.1,19.4c0,0.1-0.2,0.2-0.5,0.2c-0.3,0-0.5-0.1-0.5-0.2l-0.3-1.7l0.3-3.7c0-0.1,0.2-0.2,0.5-0.2c0.3,0,0.5,0.1,0.5,0.2
+	                                        l0.3,3.7L14.1,19.4z M22,19.6c0,0-5.6,0-5.6,0c-0.1,0-0.2-0.1-0.2-0.2v-6.5c0-0.1,0-0.2,0.2-0.2c0.4-0.2,0.8-0.2,1.3-0.2
+	                                        c1.9,0,3.4,1.4,3.6,3.3c0.2-0.1,0.5-0.2,0.8-0.2c1.1,0,2,0.9,2,2C24,18.7,23.1,19.6,22,19.6z"/>
+                                        </svg>
+                                    </div>
+                                    <div class="social-icon">
+                                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	                                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+                                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M20.2,10.7l-1.5,0
+	                                        c-1.2,0-1.4,0.6-1.4,1.4v1.8h2.8l-0.4,2.8h-2.4V24h-2.9v-7.3h-2.5v-2.8h2.5v-2.1C14.3,9.3,15.8,8,18,8c1,0,1.9,0.1,2.2,0.1V10.7z"/>
+                                        </svg>
+                                    </div>
+                                    <div class="social-icon">
 
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M20.2,10.7l-1.5,0
-	                        c-1.2,0-1.4,0.6-1.4,1.4v1.8h2.8l-0.4,2.8h-2.4V24h-2.9v-7.3h-2.5v-2.8h2.5v-2.1C14.3,9.3,15.8,8,18,8c1,0,1.9,0.1,2.2,0.1V10.7z"/>
-                        </svg>
+                                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	                                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+                                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M24,16.6
+	                                        c0,1.3-0.2,2.6-0.2,2.6s-0.2,1.1-0.6,1.6c-0.6,0.6-1.3,0.6-1.6,0.7c-2.2,0.2-5.6,0.2-5.6,0.2s-4.2,0-5.4-0.2c-0.4-0.1-1.2,0-1.8-0.7
+	                                        c-0.5-0.5-0.6-1.6-0.6-1.6S8,17.9,8,16.6v-1.2c0-1.3,0.2-2.6,0.2-2.6s0.2-1.1,0.6-1.6c0.6-0.6,1.3-0.6,1.6-0.7
+	                                        c2.2-0.2,5.6-0.2,5.6-0.2h0c0,0,3.4,0,5.6,0.2c0.3,0,1,0,1.6,0.7c0.5,0.5,0.6,1.6,0.6,1.6s0.2,1.3,0.2,2.6V16.6z"/>
+                                            <polygon fill="#444444" points="14.3,18.1 18.7,15.8 14.3,13.6 "/>
+                                        </svg>     
 
+                                    </div>
 
+                                    <div class="social-icon">
+
+                                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	                                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+                                            <path fill="#444444" d="M16,9.3c-3.6,0-6.6,3-6.6,6.6c0,1.2,0.3,2.5,1,3.5l0.2,0.2l-0.7,2.4l2.5-0.7l0.2,0.1c1,0.6,2.2,0.9,3.4,0.9
+	                                        h0c3.6,0,6.6-3,6.6-6.6c0-1.8-0.7-3.4-1.9-4.7C19.5,10,17.8,9.3,16,9.3z M19.9,18.8c-0.2,0.5-1,0.9-1.3,0.9
+	                                        c-0.3,0.1-0.8,0.1-1.2-0.1c-0.3-0.1-0.7-0.2-1.1-0.4c-2-0.9-3.3-2.9-3.4-3c-0.1-0.1-0.8-1.1-0.8-2c0-1,0.5-1.5,0.7-1.7
+	                                        c0.2-0.2,0.4-0.2,0.5-0.2c0.1,0,0.3,0,0.4,0c0.1,0,0.3,0,0.4,0.3c0.2,0.4,0.6,1.4,0.6,1.5s0.1,0.2,0,0.3c-0.1,0.1-0.1,0.2-0.2,0.3
+	                                        c-0.1,0.1-0.2,0.3-0.3,0.3c-0.1,0.1-0.2,0.2-0.1,0.4c0.1,0.2,0.5,0.8,1.1,1.4c0.8,0.7,1.4,0.9,1.6,1c0.2,0.1,0.3,0.1,0.4,0
+	                                        c0.1-0.1,0.5-0.6,0.6-0.8c0.1-0.2,0.3-0.2,0.4-0.1c0.2,0.1,1.2,0.5,1.4,0.6c0.2,0.1,0.3,0.1,0.4,0.2C20.1,17.9,20.1,18.3,19.9,18.8z
+	                                        "/>
+                                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M16,23.9L16,23.9
+	                                        c-1.3,0-2.6-0.3-3.8-1L8,24l1.1-4.1c-0.7-1.2-1.1-2.6-1.1-4C8.1,11.6,11.7,8,16,8c2.1,0,4.1,0.8,5.6,2.3c1.5,1.5,2.3,3.5,2.3,5.6
+	                                        C24,20.3,20.4,23.9,16,23.9z"/>
+                                        </svg>
+                                    </div> <!-- close social-icon -->
+                                </div> <!-- close social-container-wrapper -->
+                            </div> <!-- close social-container -->
+                            <div class="d-flex justify-content-center divider-wrapper">
+                                <svg id='flourish' xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" viewBox="0 0 657.82749 24.934974" version="1.1" sodipodi:docname="Underline-Flourish.svg" width="657.82751" height="24.934975" inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+                                    <defs id="defs866"/>
+                                    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1718" inkscape:window-height="839" id="namedview864" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.84663626" inkscape:cx="326.52554" inkscape:cy="115.90088" inkscape:window-x="1946" inkscape:window-y="124" inkscape:window-maximized="0" inkscape:current-layer="svg2" inkscape:document-rotation="0"/>
+                                    <g id="g4257" transform="matrix(2.7705,0,0,2.9079,-704.03946,-611.42596)" style="fill:#212529;fill-opacity:1">
+                                    <path id="path4259" d="m 358.57,218.22 c 4.3635,-0.63392 3.5955,-6.61 0,-7.3393 -34.106,3.3914 -69.127,2.3193 -104.45,3.7983 35.154,1.5334 69.298,-0.57635 104.45,3.541 z" style="fill:#212529;fill-opacity:1"/>
+                                    <path id="path4261" transform="matrix(1,0,0,1.0439,-1.0871,-9.929)" d="m 378.21,215.04 c 0,2.2683 -1.9188,4.1071 -4.2857,4.1071 -2.3669,0 -4.2857,-1.8388 -4.2857,-4.1071 0,-2.2683 1.9188,-4.1072 4.2857,-4.1072 2.3669,0 4.2857,1.8388 4.2857,4.1072 z" style="fill:#212529;fill-opacity:1"/>
+                                    <path id="path4263" d="m 387.11,218.22 c -4.3635,-0.63392 -3.5955,-6.61 0,-7.3393 34.106,3.3914 69.127,2.3193 104.45,3.7983 -35.154,1.5334 -69.298,-0.57635 -104.45,3.541 z" style="fill:#212529;fill-opacity:1"/>
+                                    </g>
+                                </svg>                   
+                            </div>  <!--close divider wrapper -->
+                            <div class="d-flex flex-column justify-content-end copyright-wrapper user-select-none">
+                                <p class='d-flex justify-content-center copyright'>© <?php echo date("Y"); ?> Copyright Moonflower Productions</p> 
+                            </div>
+                        </div>
                     </div>
-
-                    <div class="social-icon">
-
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M24,16.6
-	                        c0,1.3-0.2,2.6-0.2,2.6s-0.2,1.1-0.6,1.6c-0.6,0.6-1.3,0.6-1.6,0.7c-2.2,0.2-5.6,0.2-5.6,0.2s-4.2,0-5.4-0.2c-0.4-0.1-1.2,0-1.8-0.7
-	                        c-0.5-0.5-0.6-1.6-0.6-1.6S8,17.9,8,16.6v-1.2c0-1.3,0.2-2.6,0.2-2.6s0.2-1.1,0.6-1.6c0.6-0.6,1.3-0.6,1.6-0.7
-	                        c2.2-0.2,5.6-0.2,5.6-0.2h0c0,0,3.4,0,5.6,0.2c0.3,0,1,0,1.6,0.7c0.5,0.5,0.6,1.6,0.6,1.6s0.2,1.3,0.2,2.6V16.6z"/>
-                            <polygon fill="#444444" points="14.3,18.1 18.7,15.8 14.3,13.6 "/>
-                        </svg>                           
-
-                    </div>
-                    <div class="social-icon">
-
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	                        width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-                            <path fill="#444444" d="M16,9.3c-3.6,0-6.6,3-6.6,6.6c0,1.2,0.3,2.5,1,3.5l0.2,0.2l-0.7,2.4l2.5-0.7l0.2,0.1c1,0.6,2.2,0.9,3.4,0.9
-	                        h0c3.6,0,6.6-3,6.6-6.6c0-1.8-0.7-3.4-1.9-4.7C19.5,10,17.8,9.3,16,9.3z M19.9,18.8c-0.2,0.5-1,0.9-1.3,0.9
-	                        c-0.3,0.1-0.8,0.1-1.2-0.1c-0.3-0.1-0.7-0.2-1.1-0.4c-2-0.9-3.3-2.9-3.4-3c-0.1-0.1-0.8-1.1-0.8-2c0-1,0.5-1.5,0.7-1.7
-	                        c0.2-0.2,0.4-0.2,0.5-0.2c0.1,0,0.3,0,0.4,0c0.1,0,0.3,0,0.4,0.3c0.2,0.4,0.6,1.4,0.6,1.5s0.1,0.2,0,0.3c-0.1,0.1-0.1,0.2-0.2,0.3
-	                        c-0.1,0.1-0.2,0.3-0.3,0.3c-0.1,0.1-0.2,0.2-0.1,0.4c0.1,0.2,0.5,0.8,1.1,1.4c0.8,0.7,1.4,0.9,1.6,1c0.2,0.1,0.3,0.1,0.4,0
-	                        c0.1-0.1,0.5-0.6,0.6-0.8c0.1-0.2,0.3-0.2,0.4-0.1c0.2,0.1,1.2,0.5,1.4,0.6c0.2,0.1,0.3,0.1,0.4,0.2C20.1,17.9,20.1,18.3,19.9,18.8z
-	                        "/>
-                            <path fill="#444444" d="M16,0C7.2,0,0,7.2,0,16c0,8.8,7.2,16,16,16s16-7.2,16-16C32,7.2,24.8,0,16,0z M16,23.9L16,23.9
-	                        c-1.3,0-2.6-0.3-3.8-1L8,24l1.1-4.1c-0.7-1.2-1.1-2.6-1.1-4C8.1,11.6,11.7,8,16,8c2.1,0,4.1,0.8,5.6,2.3c1.5,1.5,2.3,3.5,2.3,5.6
-	                        C24,20.3,20.4,23.9,16,23.9z"/>
-                        </svg>
-                            
-                    </div> <!-- close social-icon -->
-                </div> <!-- close social-container-wrapper -->
-            </div> <!-- close social-container -->
-            <div class="d-flex justify-content-center divider-wrapper">
-                <svg id='flourish' xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" viewBox="0 0 657.82749 24.934974" version="1.1" sodipodi:docname="Underline-Flourish.svg" width="657.82751" height="24.934975" inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
-                    <defs id="defs866"/>
-                    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1718" inkscape:window-height="839" id="namedview864" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.84663626" inkscape:cx="326.52554" inkscape:cy="115.90088" inkscape:window-x="1946" inkscape:window-y="124" inkscape:window-maximized="0" inkscape:current-layer="svg2" inkscape:document-rotation="0"/>
-                    <g id="g4257" transform="matrix(2.7705,0,0,2.9079,-704.03946,-611.42596)" style="fill:#212529;fill-opacity:1">
-                    <path id="path4259" d="m 358.57,218.22 c 4.3635,-0.63392 3.5955,-6.61 0,-7.3393 -34.106,3.3914 -69.127,2.3193 -104.45,3.7983 35.154,1.5334 69.298,-0.57635 104.45,3.541 z" style="fill:#212529;fill-opacity:1"/>
-                    <path id="path4261" transform="matrix(1,0,0,1.0439,-1.0871,-9.929)" d="m 378.21,215.04 c 0,2.2683 -1.9188,4.1071 -4.2857,4.1071 -2.3669,0 -4.2857,-1.8388 -4.2857,-4.1071 0,-2.2683 1.9188,-4.1072 4.2857,-4.1072 2.3669,0 4.2857,1.8388 4.2857,4.1072 z" style="fill:#212529;fill-opacity:1"/>
-                    <path id="path4263" d="m 387.11,218.22 c -4.3635,-0.63392 -3.5955,-6.61 0,-7.3393 34.106,3.3914 69.127,2.3193 104.45,3.7983 -35.154,1.5334 -69.298,-0.57635 -104.45,3.541 z" style="fill:#212529;fill-opacity:1"/>
-                    </g>
-                </svg>                   
-            </div>  <!--close divider wrapper -->
-            <div class="d-flex flex-column justify-content-end copyright-wrapper user-select-none">
-                <p class='d-flex justify-content-center copyright'>© <?php echo date("Y"); ?> Copyright Moonflower Productions</p> 
-            </div>
-        
-        </div>
-
-    </div>
-        </div>
-        </div>
-    </footer>
-
-    </div>
-</div>
+                </div> <!-- close footer-wrapper -->
+            <!-- </div> -->
+            </footer>
+        </div> <!-- close page-wrapper -->
+    </div> <!-- close fluid-container -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
     </script>
@@ -424,8 +411,5 @@
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
     </script>
 </body>
-
-
-
 
 </html>
