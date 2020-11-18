@@ -198,12 +198,18 @@ footer{
 .footer-bottom{
     // position: relative;
     width: 100%;
-    height: 100px;
+    // height: 100px;
     // background-color: orange;
     // background-color: pink;
     // background-color: black;
 }
 
+.social-container-wrapper{
+    margin-top: 20px;
+    .social-icon{
+        padding: 0 20px 0 20px;
+    }
+}
 
 .copyright-wrapper{
     width: 100%;
@@ -211,7 +217,7 @@ footer{
 
 #flourish{
     width: 350px;
-    margin: 15px;
+    margin: 10px;
 }
 
 .copyright{

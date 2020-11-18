@@ -152,7 +152,13 @@ footer {
 
 .footer-bottom {
   width: 100%;
-  height: 100px;
+}
+
+.social-container-wrapper {
+  margin-top: 20px;
+}
+.social-container-wrapper .social-icon {
+  padding: 0 20px 0 20px;
 }
 
 .copyright-wrapper {
@@ -161,7 +167,7 @@ footer {
 
 #flourish {
   width: 350px;
-  margin: 15px;
+  margin: 10px;
 }
 
 .copyright {
