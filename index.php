@@ -193,6 +193,11 @@
                     </div>
                     <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
                         <div class="col">
+                            <div class="logo-container">
+                                <div class="logo-wrapper">
+                                    
+                                </div>
+                            </div>
                             <div class="social-container">
                                 <div class="social-container-wrapper d-flex justify-content-center">
                                     <div class="social-icon">
