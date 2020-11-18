@@ -161,8 +161,11 @@ footer {
   padding: 0 20px 0 20px;
 }
 
-#fb-icon:hover {
+.icon {
   fill: #8a6c9c;
+}
+.icon:hover {
+  fill: #cfd3ca;
 }
 
 .copyright-wrapper {
