@@ -111,8 +111,12 @@ nav .nav-link {
 }
 
 .form-control {
-  background-color: black;
+  background-color: #131511;
   margin: 0;
+  border: none !important;
+  border-radius: 0 !important;
+  border-bottom: 1px solid white !important;
+  outline: none;
 }
 
 footer {
