@@ -30,7 +30,9 @@
             <header class="">
                 <nav class="navbar navbar-expand-md navbar-dark">
                     <div class="container">
-                        <a href="#" class="navbar-brand">Moonflower Productions</a>
+                        <a href="#" class="navbar-brand">
+                            Moonflower Productions
+                        </a>
                         <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" aria-expanded="false" data-target="#main-nav">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -41,10 +43,10 @@
                                 <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mixing</a></li>
                                 <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mastering</a></li>
                                 <li><a href="#" class="px-3 nav-item nav-link absolute-center">Consultation</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Contact</a></li>
+                                <li><a href="./contact.php" class="px-3 nav-item nav-link absolute-center">Contact</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> 
                 </nav>
             </header>
 
@@ -64,6 +66,7 @@
                             <div class="col">
                                 <div class="row">
                                     <div class="col px-0 d-flex justify-content-center align-items-center">
+
                                         <div class="icon-container">
                                             
                                         <?php echo file_get_contents("./img/icons/Equalizer2.svg"); ?>
@@ -87,6 +90,7 @@
                                         <h4 class='service-label'>Mastering</h4>
                                         <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
                                     </div>
+
                                 </div>
                             </div> <!-- close col -->
                             <div class="col">
@@ -193,10 +197,15 @@
                     </div>
                     <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
                         <div class="col">
-                            <div class="logo-container">
+                            <!-- <nav>
+
+                            </nav> -->
+                            <div class="logo-container d-flex justify-content-center p-4">
+                                
                                 <div class="logo-wrapper">
-                                    
+                                    <?php echo file_get_contents("./img/logo2.svg"); ?>
                                 </div>
+
                             </div>
                             <div class="social-container">
                                 <div class="social-container-wrapper d-flex justify-content-center">
@@ -230,7 +239,11 @@
 
                             </div>  <!--close divider wrapper -->
                             <div class="d-flex flex-column justify-content-end copyright-wrapper user-select-none">
-                                <p class='d-flex justify-content-center copyright'>© <?php echo date("Y"); ?> Copyright Moonflower Productions</p> 
+                                
+                                <p class='d-flex justify-content-center copyright'>
+                                    © <?php echo date("Y"); ?> Copyright Moonflower Productions
+                                </p> 
+
                             </div>
                             
                         </div>
@@ -238,8 +251,10 @@
                 </div> <!-- close footer-wrapper -->
             <!-- </div> -->
             </footer>
+
         </div> <!-- close page-wrapper -->
     </div> <!-- close fluid-container -->
+
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
     </script>
@@ -249,6 +264,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
     </script>
+
 </body>
 
 </html>

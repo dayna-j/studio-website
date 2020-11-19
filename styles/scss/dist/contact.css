@@ -96,22 +96,6 @@ nav .nav-link {
   color: white;
 }
 
-.services-tag {
-  color: #f7d4ff;
-}
-
-.service-label {
-  color: #99967c;
-}
-
-.icon-container {
-  width: 100px;
-}
-
-.service-icon {
-  cursor: pointer;
-}
-
 #background-overlay {
   height: 196px;
   background-color: orchid;
@@ -122,15 +106,8 @@ nav .nav-link {
   background-position: center;
 }
 
-#carousel-section {
-  background-color: black;
-}
-
-.carousel-text {
-  color: whitesmoke;
-  font-family: "Jim Nightshade", cursive;
-  font-family: "Sofia", cursive;
-  font-size: 50px !important;
+#contact-section {
+  background-color: grey;
 }
 
 footer {

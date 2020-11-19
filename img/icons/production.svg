@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,6 +14,8 @@
    style="enable-background:new 0 0 512 512;"
    xml:space="preserve"
    id="svg865"
+   class="service-icon" 
+
    sodipodi:docname="midi_controller2.svg"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
      id="metadata871"><rdf:RDF><cc:Work
