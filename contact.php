@@ -62,23 +62,37 @@
                 <div class="row justify-content-center">
 
                     <div class="col-lg-6">
+
                         <h3 class='text-center form-header p-3'>Want to work with us?</h3>
                         <form action="POST">
 
                             <div class="form-row">
+
                                 <div class="col-md-6 p-3">
                                     <input type="text" class="form-control" placeholder="Name">
 
                                 </div>
+
                                 <div class="col-md-6 p-3">
                                     <input type="text" class="form-control" placeholder="Email">
                                 </div>
+
                             </div>
 
-                            <div class="form-row">  
+                            <div class="form-row">
+
                                 <div class="col p-3">
                                     <input type="text" class="form-control" placeholder="Message">
                                 </div>
+
+                            </div>
+
+                            <div class="form-row">
+
+                                <div class="form-field d-flex justify-content-center col x-10 p-5">
+                                    <input class="submit-button" type="submit" value="GET IN TOUCH">
+                                </div>
+
                             </div>
 
                         </form>
