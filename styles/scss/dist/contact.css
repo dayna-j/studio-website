@@ -106,8 +106,13 @@ nav .nav-link {
   background-position: center;
 }
 
-#contact-section {
-  background-color: #914040;
+.form-header {
+  margin: 0;
+}
+
+.form-control {
+  background-color: black;
+  margin: 0;
 }
 
 footer {

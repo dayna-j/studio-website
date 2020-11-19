@@ -61,25 +61,30 @@
 
                 <div class="row justify-content-center">
 
-                <div class="col-lg-6">
+                    <div class="col-lg-6">
+                        <h3 class='text-center form-header p-3'>Want to work with us?</h3>
+                        <form action="POST">
 
-               <form action="POST">
-                    <div class="form-row">
-                        <div class="col-md-6 p-3">
-                            <input type="text" class="form-control" placeholder="Name">
+                            <div class="form-row">
+                                <div class="col-md-6 p-3">
+                                    <input type="text" class="form-control" placeholder="Name">
 
-                        </div>
-                        <div class="col-md-6 p-3">
-                            <input type="text" class="form-control" placeholder="Email">
-                        </div>
+                                </div>
+                                <div class="col-md-6 p-3">
+                                    <input type="text" class="form-control" placeholder="Email">
+                                </div>
+                            </div>
+
+                            <div class="form-row">  
+                                <div class="col p-3">
+                                    <input type="text" class="form-control" placeholder="Message">
+                                </div>
+                            </div>
+
+                        </form>
+
                     </div>
-                    <div class="form-row p-3">
-                    <input type="text" class="form-control" placeholder="Message">
-                    </div>
 
-
-                </form>
-                </div>
                 </div>
 
            </section>
