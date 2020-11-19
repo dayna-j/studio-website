@@ -28,7 +28,9 @@
 
 <body>
     <div class="fluid-container">
+        
         <div class="page-wrapper">
+            
             <header class="">
                 <nav class="navbar navbar-expand-md navbar-dark">
                     <div class="container">
@@ -52,20 +54,33 @@
                 </nav>
             </header>
 
+            <section id='background-overlay' style='background-image: url("./img/mixer2.jpg");")' class='w-100'>
+            </section>
+
            <section id='contact-section'>
+
+                <div class="row justify-content-center">
+
+                <div class="col-lg-6">
 
                <form action="POST">
                     <div class="form-row">
-                        <div class="col-md-6">
-                            <input type="text" class="form-control" placeholder="First name">
+                        <div class="col-md-6 p-3">
+                            <input type="text" class="form-control" placeholder="Name">
 
                         </div>
-                        <div class="col-md-6">
-                            <input type="text" class="form-control" placeholder="First name">
+                        <div class="col-md-6 p-3">
+                            <input type="text" class="form-control" placeholder="Email">
                         </div>
                     </div>
-                </form>
+                    <div class="form-row p-3">
+                    <input type="text" class="form-control" placeholder="Message">
+                    </div>
 
+
+                </form>
+                </div>
+                </div>
 
            </section>
 
