@@ -121,10 +121,11 @@ nav .nav-link {
 }
 
 .submit-button {
-  background-color: black;
+  background-color: #131511;
   width: 245px;
   height: 55px;
-  border: none !important;
+  border: 1px solid white !important;
+  color: white;
 }
 
 footer {
@@ -144,6 +145,7 @@ footer {
   width: 100%;
   background-color: black;
   background-color: #131511;
+  background-color: orange;
 }
 
 .footer-bottom {
