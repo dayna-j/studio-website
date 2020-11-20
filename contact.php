@@ -125,7 +125,7 @@
                     <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
                         <div class="col">
 
-                            <nav class='navbar d-flex flex-column'>
+                            <nav class='navbar navbar-dark d-flex flex-column'>
                                 <div class="footer-nav-wrapper h-100">
                                     <ul class='navbar-nav navbar-nav-footer flex-row h-100'>
                                         <li class='my-auto'>
