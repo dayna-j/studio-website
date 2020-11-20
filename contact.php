@@ -1,3 +1,9 @@
+<?php 
+
+
+?>
+
+
 <!doctype html>
 <html lang="en">
 
@@ -69,12 +75,14 @@
                             <div class="form-row">
 
                                 <div class="col-md-6 input-container p-3">
+
                                     <input required id='name' type="text" class="form-control" >
                                     <label class="" for="name">Name</label>
 
                                 </div>
 
                                 <div class="col-md-6 input-container p-3">
+
                                     <input required id="email" type="text" class="form-control" >
                                     <label for="email">Email</label>
 
@@ -116,9 +124,29 @@
                     </div>
                     <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
                         <div class="col">
-                            <!-- <nav>
 
-                            </nav> -->
+                            <nav class='navbar'>
+                                <div class="footer-nav-wrapper">
+                                    <ul class='navbar-nav'>
+                                        <li class=''>
+                                            <a class='nav-item nav-link' href="">About</a>
+                                        </li>
+                                        <li class=''>
+                                            <a class='nav-item nav-link' href="">Mixing</a>
+                                        </li>
+                                        <li class=''>
+                                            <a class='nav-item nav-link' href="">Mastering</a>
+                                        </li>
+                                        <li class=''>
+                                            <a class='nav-item nav-link' href="">Consultation</a>
+                                        </li>
+                                        <li class=''>
+                                            <a class='nav-item nav-link' href="">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+
                             <div class="logo-container d-flex justify-content-center p-4">
                                 
                                 <div class="logo-wrapper">
@@ -165,9 +193,9 @@
 
                             </div>
                             
-                        </div>
-                    </div>
-                </div> <!-- close footer-wrapper -->
+                        </div>  <!-- close column -->
+                    </div>  <!-- close row -->
+                </div>  <!-- close footer-wrapper -->
             <!-- </div> -->
             </footer>
 

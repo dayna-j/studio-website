@@ -118,7 +118,8 @@ nav .nav-link {
 label {
   position: relative;
   top: -35px;
-  transition: all 0.2 ease;
+  transition: all 0.65s ease;
+  color: #3a3a3a;
 }
 
 input[type=text] {
@@ -129,7 +130,7 @@ input[type=text] {
   border-radius: 0 !important;
   border-bottom: 1px solid white !important;
   outline: none !important;
-  transition: all 0.3s;
+  transition: all 0.5s;
 }
 input[type=text]:focus {
   background-color: transparent;
@@ -145,6 +146,7 @@ input[type=text]:active {
 input[type=text]:focus ~ label,
 input[type=text]:valid ~ label {
   top: -65px;
+  letter-spacing: 1.5px;
 }
 
 .submit-button {
@@ -158,6 +160,7 @@ input[type=text]:valid ~ label {
 }
 .submit-button:hover {
   letter-spacing: 2px;
+  color: orchid;
 }
 
 footer {
