@@ -96,7 +96,7 @@ nav{
             flex-grow: 1;
         }
     }
-    .nav-item{
+    .nav-item-header{
         // background-color: orange;
         background-color: rgb(34, 32, 32);
         // color:#f7d4ff;
@@ -112,7 +112,7 @@ nav{
         }
     }
 
-    .nav-link{
+    .nav-link-header{
         color:#c897d3;
 
         &:active{
@@ -280,6 +280,10 @@ footer{
     // background-color: orange;
     // background-color: pink;
     // background-color: black;
+    
+}
+
+.nav-item-footer{
     
 }
 

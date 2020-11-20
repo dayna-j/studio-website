@@ -75,18 +75,18 @@ nav #main-nav ul {
   height: 95px;
   flex-grow: 1;
 }
-nav .nav-item {
+nav .nav-item-header {
   background-color: #222020;
   border-bottom: 1px solid orchid;
   height: 100%;
   user-select: none !important;
   -webkit-user-select: none;
 }
-nav .nav-item:hover {
+nav .nav-item-header:hover {
   background-color: red;
   background-color: orchid;
 }
-nav .nav-link {
+nav .nav-link-header {
   color: #c897d3;
 }
 .navbar-toggler {

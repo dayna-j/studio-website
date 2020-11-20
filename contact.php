@@ -49,11 +49,11 @@
 
                         <div id="main-nav" class="collapse navbar-collapse">
                             <ul class="navbar-nav justify-content-lg-center">
-                                <li><a href="./index.php" class="px-3 nav-item nav-link active absolute-center">About</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mixing</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Mastering</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Consultation</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-link absolute-center">Contact</a></li>
+                                <li><a href="./index.php" class="px-3 nav-item nav-item-header nav-link nav-link-header active absolute-center">About</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Mixing</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Mastering</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Consultation</a></li>
+                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Contact</a></li>
                             </ul>
                         </div>
                     </div> 
@@ -125,23 +125,23 @@
                     <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
                         <div class="col">
 
-                            <nav class='navbar'>
-                                <div class="footer-nav-wrapper">
-                                    <ul class='navbar-nav'>
+                            <nav class='navbar d-flex flex-column'>
+                                <div class="footer-nav-wrapper h-100">
+                                    <ul class='navbar-nav flex-row h-100'>
                                         <li class=''>
-                                            <a class='nav-item nav-link' href="">About</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">About</a>
                                         </li>
                                         <li class=''>
-                                            <a class='nav-item nav-link' href="">Mixing</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mixing</a>
                                         </li>
                                         <li class=''>
-                                            <a class='nav-item nav-link' href="">Mastering</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mastering</a>
                                         </li>
                                         <li class=''>
-                                            <a class='nav-item nav-link' href="">Consultation</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Consultation</a>
                                         </li>
                                         <li class=''>
-                                            <a class='nav-item nav-link' href="">Contact</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Contact</a>
                                         </li>
                                     </ul>
                                 </div>
