@@ -1,5 +1,11 @@
 <?php 
+      //Session start, to generate dynamic kcaptcha codes and display flash messages
+  session_start();
 
+  //Display errors, can be removed when testing is done
+  ini_set('display_errors', 1);
+  ini_set('display_startup_errors', 1);
+  error_reporting(E_ALL);
 
 ?>
 
@@ -70,7 +76,7 @@
                     <div class="col-lg-6">
 
                         <h3 class='text-center form-header p-4'>Want to work with us?</h3>
-                        <form action="POST">
+                        <form method="POST" action="./contact.php">
 
                             <div class="form-row">
 
