@@ -127,21 +127,21 @@
 
                             <nav class='navbar d-flex flex-column'>
                                 <div class="footer-nav-wrapper h-100">
-                                    <ul class='navbar-nav flex-row h-100'>
-                                        <li class=''>
+                                    <ul class='navbar-nav navbar-nav-footer flex-row h-100'>
+                                        <li class='my-auto'>
                                             <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">About</a>
                                         </li>
-                                        <li class=''>
+                                        <li class='my-auto'>
                                             <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mixing</a>
                                         </li>
-                                        <li class=''>
+                                        <li class='my-auto'>
                                             <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mastering</a>
                                         </li>
-                                        <li class=''>
+                                        <li class='my-auto'>
                                             <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Consultation</a>
                                         </li>
-                                        <li class=''>
-                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Contact</a>
+                                        <li class='my-auto'>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3 active' href="">Contact</a>
                                         </li>
                                     </ul>
                                 </div>

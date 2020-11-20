@@ -190,6 +190,14 @@ footer {
   width: 100%;
 }
 
+.navbar-nav-footer {
+  display: flex;
+}
+
+.nav-item-footer {
+  display: flex;
+}
+
 .social-container-wrapper .social-icon {
   padding: 0 20px 0 20px;
 }

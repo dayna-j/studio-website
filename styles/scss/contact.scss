@@ -283,8 +283,13 @@ footer{
     
 }
 
+.navbar-nav-footer{
+    display:flex;
+}
+
 .nav-item-footer{
-    
+    display: flex;
+    // flex-direction: column;
 }
 
 .social-container-wrapper{
