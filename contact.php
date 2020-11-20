@@ -57,39 +57,44 @@
             <section id='background-overlay' style='background-image: url("./img/mixer2.jpg");")' class='w-100'>
             </section>
 
-           <section id='contact-section'>
+           <section id='contact-section' class='p-3'>
 
                 <div class="row justify-content-center">
 
                     <div class="col-lg-6">
 
-                        <h3 class='text-center form-header p-3'>Want to work with us?</h3>
+                        <h3 class='text-center form-header p-4'>Want to work with us?</h3>
                         <form action="POST">
 
                             <div class="form-row">
 
-                                <div class="col-md-6 p-3">
-                                    <input type="text" class="form-control" placeholder="Name">
+                                <div class="col-md-6 input-container p-3">
+                                    <input required id='name' type="text" class="form-control" >
+                                    <label class="" for="name">Name</label>
 
                                 </div>
 
-                                <div class="col-md-6 p-3">
-                                    <input type="text" class="form-control" placeholder="Email">
-                                </div>
+                                <div class="col-md-6 input-container p-3">
+                                    <input required id="email" type="text" class="form-control" >
+                                    <label for="email">Email</label>
 
-                            </div>
-
-                            <div class="form-row">
-
-                                <div class="col p-3">
-                                    <input type="text" class="form-control" placeholder="Message">
                                 </div>
 
                             </div>
 
                             <div class="form-row">
 
-                                <div class="form-field d-flex justify-content-center col x-10 p-5">
+                                <div class="col input-container p-3">
+                                    
+                                    <input required id="message" type="text" class="form-control" >
+                                    <label for="message">Message</label>
+                                </div>
+
+                            </div>
+
+                            <div class="form-row">
+
+                                <div class="form-field d-flex justify-content-center col x-10 p-4">
                                     <input class="submit-button" type="submit" value="GET IN TOUCH">
                                 </div>
 
