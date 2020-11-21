@@ -5,9 +5,29 @@
                     </div>
                     <div class="d-flex flex-column justify-content-center footer-bottom no-gutters row">
                         <div class="col">
-                            <!-- <nav>
 
-                            </nav> -->
+                            <nav class='navbar navbar-dark d-flex flex-column'>
+                                <div class="footer-nav-wrapper h-100">
+                                    <ul class='navbar-nav navbar-nav-footer flex-row h-100'>
+                                        <li class='my-auto'>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">About</a>
+                                        </li>
+                                        <li class='my-auto'>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mixing</a>
+                                        </li>
+                                        <li class='my-auto'>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mastering</a>
+                                        </li>
+                                        <li class='my-auto'>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Consultation</a>
+                                        </li>
+                                        <li class='my-auto'>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3 active' href="">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+
                             <div class="logo-container d-flex justify-content-center p-4">
                                 
                                 <div class="logo-wrapper">
@@ -54,9 +74,9 @@
 
                             </div>
                             
-                        </div>
-                    </div>
-                </div> <!-- close footer-wrapper -->
+                        </div>  <!-- close column -->
+                    </div>  <!-- close row -->
+                </div>  <!-- close footer-wrapper -->
             <!-- </div> -->
             </footer>
 
