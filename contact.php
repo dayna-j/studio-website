@@ -3,9 +3,13 @@
   session_start();
 
   //Display errors, can be removed when testing is done
-  ini_set('display_errors', 1);
-  ini_set('display_startup_errors', 1);
-  error_reporting(E_ALL);
+//   ini_set('display_errors', 1);
+//   ini_set('display_startup_errors', 1);
+//   error_reporting(E_ALL);
+
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $message = $_POST['message'];
 
 ?>
 
@@ -89,7 +93,7 @@
 
                                 <div class="col-md-6 input-container p-3">
 
-                                    <input required id="email" type="text" class="form-control" >
+                                    <input required id="email" type="email" class="form-control">
                                     <label for="email">Email</label>
 
                                 </div>

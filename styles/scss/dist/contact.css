@@ -122,7 +122,8 @@ label {
   color: #3a3a3a;
 }
 
-input[type=text] {
+input[type=text],
+input[type=email] {
   background-color: transparent;
   position: relative;
   margin: 0;
@@ -132,19 +133,32 @@ input[type=text] {
   outline: none !important;
   transition: all 0.5s;
 }
-input[type=text]:focus {
+input[type=text]:focus,
+input[type=email]:focus {
   background-color: transparent;
   outline: none !important;
   box-shadow: none !important;
   border-bottom: 1px solid orchid !important;
 }
-input[type=text]:active {
+input[type=text]:active,
+input[type=email]:active {
   outline: none !important;
   box-shadow: none !important;
 }
 
+input[type=text]:valid,
+input[type=email]:valid {
+  color: rgba(181, 142, 199, 0.774);
+}
+
 input[type=text]:focus ~ label,
 input[type=text]:valid ~ label {
+  top: -65px;
+  letter-spacing: 1.5px;
+}
+
+input[type=email]:focus ~ label,
+input[type=email]:valid ~ label {
   top: -65px;
   letter-spacing: 1.5px;
 }
