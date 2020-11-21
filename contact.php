@@ -93,7 +93,7 @@
 
                                 <div class="col-md-6 input-container p-3">
 
-                                    <input required id="email" type="email" class="form-control">
+                                    <input required id="email" type="email" class="form-control" placeholder=' '>
                                     <label for="email">Email</label>
 
                                 </div>

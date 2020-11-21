@@ -17,6 +17,16 @@
   box-align: center;
 }
 
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill {
+  border: 1px solid green;
+  -webkit-text-fill-color: #dfda95;
+  -webkit-box-shadow: none !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
 /* width */
 ::-webkit-scrollbar {
   width: 20px;
@@ -159,6 +169,11 @@ input[type=text]:valid ~ label {
 
 input[type=email]:focus ~ label,
 input[type=email]:valid ~ label {
+  top: -65px;
+  letter-spacing: 1.5px;
+}
+
+input[type=email]:not(:placeholder-shown):not(:focus):invalid ~ label {
   top: -65px;
   letter-spacing: 1.5px;
 }
