@@ -24,8 +24,30 @@
            }
     
     }
+
+    function addToDatabase($name,$email,$message){
+        global $conn;
+        $sqlQuery = '
+                INSERT INTO contact_form
+                     (name,email,message)
+                VALUES
+                    (:name,:email,:message)
+                ';
+
+        $stmt = $conn->prepare($sqlQuery);
+        // $stmt->bindValue(':username',$username,':password',$password,':firstName',$firstName,':lastName',$lastName,':email',$email);
+        $stmt->execute([
+            ':name' => $name,
+            ':email' => $email,
+            ':message' => $message
+        ]);
+        
+    }
+
     
     $conn = login($dsn,$username,$password,$pdoOptions);
-    var_dump($conn);
+    
+    addToDatabase($name,$email,$message);
+    // var_dump($conn);
 
     ?>
