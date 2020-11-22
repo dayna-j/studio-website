@@ -1,7 +1,7 @@
 <?php
 
     $host='localhost';
-    $db = 'contact_form';
+    $db = 'katzir_studio_contact';
     $username = 'katzir_daynaj';
     $password = 'Flapjack12!@';
     $pdoOptions = array(
