@@ -18,6 +18,7 @@ AND isset($_POST['message'])){
     $headers = ['From' => $email,'To' => $to, 'Subject' => $subject];
 
     mail($to,$subject,$message,$headers);
+
     header('location: http://moonflower.digital/sent.php');    
 } else{
     // header('location: http://localhost:8888/error.php');
