@@ -4,6 +4,7 @@
     $db = 'katzir_studio_contact';
     $username = 'katzir_daynaj';
     $password = 'Flapjack12!@';
+    $date = date('Y-m-d H:i:s');/////////////////////////////////////////
     $pdoOptions = array(
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
         PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
@@ -29,7 +30,7 @@
         global $conn;
         $sqlQuery = '
                 INSERT INTO contact_form
-                     (name,email,message)
+                     (name,email,message, date)
                 VALUES
                     (:name,:email,:message)
                 ';
