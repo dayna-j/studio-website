@@ -1,15 +1,31 @@
 <?php 
-      //Session start, to generate dynamic kcaptcha codes and display flash messages
-  session_start();
 
-  //Display errors, can be removed when testing is done
-//   ini_set('display_errors', 1);
-//   ini_set('display_startup_errors', 1);
-//   error_reporting(E_ALL);
+session_start();
 
-  $name = $_POST['name'];
-  $email = $_POST['email'];
-  $message = $_POST['message'];
+$validMail = 'FALSE';
+
+$name = !empty($_POST['name']) ? trim($_POST['name']) : null; 
+$email = !empty($_POST['email']) ? trim($_POST['email']) : null;
+$message = !empty($_POST['message']) ? trim($_POST['message']) : null; 
+
+// $key = trim($value);
+// $$key = preg_replace('/\s+/', ' ', $$key);
+// echo $$key;
+
+// header('location: http://localhost:8888/error.php');
+
+
+$to = 'daynaj@moonflower.digital';
+$subject = "CONTACT FORM SUBMISSION";
+
+$headers = ['From' => $email,'To' => $to, 'Subject' => $subject];
+
+
+mail($to,$subject,$message,$headers);
+// header('location: http://localhost:8888/sent.php');
+
+
+//   var_dump($_POST);
 
 ?>
 
@@ -86,14 +102,14 @@
 
                                 <div class="col-md-6 input-container p-3">
 
-                                    <input required id='name' type="text" class="form-control" >
+                                    <input required id='name' name="name" type="text" class="form-control" >
                                     <label class="" for="name">Name</label>
 
                                 </div>
 
                                 <div class="col-md-6 input-container p-3">
 
-                                    <input required id="email" type="email" class="form-control" placeholder=' '>
+                                    <input required id="email" type="email" name="email" class="form-control" placeholder=' '>
                                     <label for="email">Email</label>
 
                                 </div>
@@ -104,7 +120,7 @@
 
                                 <div class="col input-container p-3">
                                     
-                                    <input required id="message" type="text" class="form-control" >
+                                    <input required id="message" name="message" type="text" class="form-control">
                                     <label for="message">Message</label>
                                 </div>
 

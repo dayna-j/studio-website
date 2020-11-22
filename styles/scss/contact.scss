@@ -61,8 +61,8 @@ body {
     background-color: #131511;
 }
 
-    .container{
-    // background-color: rgb(34, 32, 32);
+.container{
+//  background-color: rgb(34, 32, 32);
 }
 
 .fluid-container{
@@ -220,15 +220,19 @@ input[type="email"]:valid{
     color: rgba(181, 142, 199, 0.774);
 }
 
+input[type="text"]:valid ~ label,
+input[type="email"]:valid ~ label{
+    color: green;
+}
 
 input[type="text"]:focus ~ label,
- input[type="text"]:valid ~ label {
+input[type="text"]:valid ~ label{
     top: -65px;
     letter-spacing: 1.5px;
-  }
+}
 
 input[type="email"]:focus ~ label,
-input[type="email"]:valid ~ label {
+input[type="email"]:valid ~ label{
     top: -65px;
     letter-spacing: 1.5px;
 }
@@ -237,6 +241,7 @@ input[type="email"]:not(:placeholder-shown):not(:focus):invalid ~ label{
     top: -65px;
     letter-spacing: 1.5px;
 }
+
 
 .submit-button{
     // background-color: black;

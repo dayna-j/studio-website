@@ -161,6 +161,11 @@ input[type=email]:valid {
   color: rgba(181, 142, 199, 0.774);
 }
 
+input[type=text]:valid ~ label,
+input[type=email]:valid ~ label {
+  color: green;
+}
+
 input[type=text]:focus ~ label,
 input[type=text]:valid ~ label {
   top: -65px;
