@@ -2,11 +2,31 @@
 
 session_start();
 
-$validMail = 'FALSE';
+// $validMail = 'FALSE';
 
-$name = !empty($_POST['name']) ? trim($_POST['name']) : null; 
-$email = !empty($_POST['email']) ? trim($_POST['email']) : null;
-$message = !empty($_POST['message']) ? trim($_POST['message']) : null; 
+if (isset($_POST['name'])
+AND isset($_POST['email'])
+AND isset($_POST['message'])){
+
+    $name = !empty($_POST['name']) ? trim($_POST['name']) : null; 
+    $email = !empty($_POST['email']) ? trim($_POST['email']) : null;
+    $message = !empty($_POST['message']) ? trim($_POST['message']) : null; 
+
+    $to = 'daynaj@moonflower.digital';
+    $subject = "CONTACT FORM SUBMISSION";
+    
+    $headers = ['From' => $email,'To' => $to, 'Subject' => $subject];
+
+    mail($to,$subject,$message,$headers);
+    header('location: http://localhost:8888/sent.php');    
+} else{
+    // header('location: http://localhost:8888/error.php');
+}
+
+
+// $name = !empty($_POST['name']) ? trim($_POST['name']) : null; 
+// $email = !empty($_POST['email']) ? trim($_POST['email']) : null;
+// $message = !empty($_POST['message']) ? trim($_POST['message']) : null; 
 
 // $key = trim($value);
 // $$key = preg_replace('/\s+/', ' ', $$key);
@@ -14,14 +34,14 @@ $message = !empty($_POST['message']) ? trim($_POST['message']) : null;
 
 // header('location: http://localhost:8888/error.php');
 
+// 
+// $to = 'daynaj@moonflower.digital';
+// $subject = "CONTACT FORM SUBMISSION";
 
-$to = 'daynaj@moonflower.digital';
-$subject = "CONTACT FORM SUBMISSION";
-
-$headers = ['From' => $email,'To' => $to, 'Subject' => $subject];
+// $headers = ['From' => $email,'To' => $to, 'Subject' => $subject];
 
 
-mail($to,$subject,$message,$headers);
+// mail($to,$subject,$message,$headers);
 // header('location: http://localhost:8888/sent.php');
 
 
@@ -34,8 +54,7 @@ mail($to,$subject,$message,$headers);
 <html lang="en">
 
 <head>
-    <title>Moonflower Productions</title>
-    
+    <title>Moonflower Productions</title> 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -43,11 +62,9 @@ mail($to,$subject,$message,$headers);
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff"> 
-
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com"> 
@@ -55,8 +72,6 @@ mail($to,$subject,$message,$headers);
     <link href="https://fonts.googleapis.com/css2?family=Sofia&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles/scss/dist/contact.css">
 </head>
-
-
 
 <body>
     <div class="fluid-container">
