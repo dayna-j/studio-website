@@ -43,12 +43,13 @@
 
         $stmt = $conn->prepare($sqlQuery);
         
-        $stmt->bindValue(':name',$name,':email',$email,':message',$message);
+        $stmt->bindValue(':name',$name,':email',$email,':message',$message,':date',$date);
         
         $stmt->execute([
             ':name' => $name,
             ':email' => $email,
-            ':message' => $message
+            ':message' => $message,
+            ':date' => $date
         ]);
         
     }
