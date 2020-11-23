@@ -43,6 +43,8 @@
         
         $stmt->bindValue(':name',$name,':email',$email,':message',$message,':date',$date);
         
+        var_dump($_SESSION);
+
         $stmt->execute([
             ':name' => $name,
             ':email' => $email,
@@ -51,6 +53,7 @@
         ]);
 
         var_dump($_SESSION);
+        echo 'never prints';
 
     }
     // var_dump($_SESSION);
