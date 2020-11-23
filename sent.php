@@ -15,7 +15,6 @@
     $name = $_SESSION['name'];
     $email = $_SESSION['email'];
     $message = $_SESSION['message'];
-
     $dsn = "mysql:host=$host;dbname=$db";
 
     function login($dsn,$username,$password, $pdoOptions){
@@ -43,7 +42,7 @@
 
         var_dump($_SESSION);
         
-        $stmt->bindValue(':name',$name,':email',$email,':message',$message,':date',$date);
+        // $stmt->bindValue(':name',$name,':email',$email,':message',$message,':date',$date);
         
         var_dump($_SESSION);
 
@@ -58,7 +57,7 @@
         echo 'never prints';
 
     }
-    // var_dump($_SESSION);
+    var_dump($_SESSION);
 
     $conn = login($dsn,$username,$password,$pdoOptions);
 
