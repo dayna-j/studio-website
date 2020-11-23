@@ -10,19 +10,19 @@
                                 <div class="footer-nav-wrapper h-100">
                                     <ul class='navbar-nav navbar-nav-footer flex-row h-100'>
                                         <li class='my-auto'>
-                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">About</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="./index.php">About</a>
                                         </li>
                                         <li class='my-auto'>
-                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mixing</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="./mixing.php">Mixing</a>
                                         </li>
                                         <li class='my-auto'>
-                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Mastering</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="./mastering.php">Mastering</a>
                                         </li>
                                         <li class='my-auto'>
-                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="">Consultation</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3' href="./consult.php">Consultation</a>
                                         </li>
                                         <li class='my-auto'>
-                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3 active' href="">Contact</a>
+                                            <a class='nav-item nav-item-footer nav-link nav-link-footer px-3 active' href="./contact.php">Contact</a>
                                         </li>
                                     </ul>
                                 </div>

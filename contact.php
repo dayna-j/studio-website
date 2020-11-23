@@ -21,7 +21,7 @@ AND isset($_POST['message'])){
     $_SESSION['name'] = $name;
     $_SESSION['email'] = $email;
     $_SESSION['message'] = $message;
-    
+
     header('location: http://moonflower.digital/sent.php');    
 } else{
     // header('location: http://localhost:8888/error.php');
@@ -95,10 +95,10 @@ AND isset($_POST['message'])){
                         <div id="main-nav" class="collapse navbar-collapse">
                             <ul class="navbar-nav justify-content-lg-center">
                                 <li><a href="./index.php" class="px-3 nav-item nav-item-header nav-link nav-link-header active absolute-center">About</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Mixing</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Mastering</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Consultation</a></li>
-                                <li><a href="#" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Contact</a></li>
+                                <li><a href="./mixing.php" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Mixing</a></li>
+                                <li><a href="./mastering.php" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Mastering</a></li>
+                                <li><a href="./consult.php" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Consultation</a></li>
+                                <li><a href="./contact.php" class="px-3 nav-item nav-item-header nav-link nav-link-header absolute-center">Contact</a></li>
                             </ul>
                         </div>
                     </div> 
