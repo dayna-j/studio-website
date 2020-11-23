@@ -5,12 +5,16 @@
     $db = 'katzir_studio_contact';
     $username = 'katzir_daynaj';
     $password = 'Flapjack12!@';
-    $date = date('Y-m-d H:i:s');/////////////////////////////////////////
     $pdoOptions = array(
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
         PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
         PDO::ATTR_EMULATE_PREPARES => false
     );
+    
+    $date = date('Y-m-d H:i:s');/////////////////////////////////////////
+    $name = $_SESSION['name'];
+    $email = $_SESSION['email'];
+    $message = $_SESSION['message'];
 
     $dsn = "mysql:host=$host;dbname=$db";
 
@@ -26,8 +30,8 @@
     
     }
 
-    function addToDatabase($name,$email,$message){
-        global $conn;
+    function addToDatabase($conn,$name,$email,$message){
+        // global $conn;
         $sqlQuery = '
                 INSERT INTO contact_form
                      (name,email,message,date)
@@ -48,7 +52,7 @@
     
     $conn = login($dsn,$username,$password,$pdoOptions);
     
-    addToDatabase($name,$email,$message);
+    addToDatabase($conn,$name,$email,$message);
     // var_dump($conn);
 
     var_dump($_SESSION);
