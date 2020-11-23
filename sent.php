@@ -14,7 +14,6 @@
     $dsn = "mysql:host=$host;dbname=$db";
 
     function login($dsn,$username,$password, $pdoOptions){
-        session_start();
         try {
             $conn = new PDO($dsn, $username, $password, $pdoOptions);
             if($conn){
