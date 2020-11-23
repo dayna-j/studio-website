@@ -93,6 +93,7 @@ nav .nav-item-header {
   height: 100%;
   user-select: none !important;
   -webkit-user-select: none;
+  transition: all 0.3s;
 }
 nav .nav-item-header:hover {
   background-color: red;
@@ -179,6 +180,7 @@ footer {
 
 .nav-item-footer {
   display: flex;
+  transition: all 0.3s;
 }
 
 .social-container-wrapper .social-icon {

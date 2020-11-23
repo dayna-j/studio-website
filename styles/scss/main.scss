@@ -118,6 +118,7 @@ nav{
         height: 100%;
         user-select: none !important;
         -webkit-user-select: none;
+        transition: all .3s;
 
         &:hover{
             background-color: red;
@@ -235,6 +236,7 @@ footer{
 
 .nav-item-footer{
     display: flex;
+    transition: all .3s;
     // flex-direction: column;
 }
 
