@@ -57,7 +57,7 @@
         ]);
 
         // var_dump($_SESSION);
-        echo 'never prints';
+        // echo 'never prints';
 
     }
     // var_dump($_SESSION);
