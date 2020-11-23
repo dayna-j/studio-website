@@ -51,4 +51,6 @@
     addToDatabase($name,$email,$message);
     // var_dump($conn);
 
+    var_dump($_SESSION);
+
     ?>
