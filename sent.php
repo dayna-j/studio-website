@@ -42,7 +42,9 @@
                 ';
 
         $stmt = $conn->prepare($sqlQuery);
-        // $stmt->bindValue(':username',$username,':password',$password,':firstName',$firstName,':lastName',$lastName,':email',$email);
+        
+        $stmt->bindValue(':name',$name,':email',$email,':message',$message);
+        
         $stmt->execute([
             ':name' => $name,
             ':email' => $email,
