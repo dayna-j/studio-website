@@ -38,7 +38,7 @@
                                     </div>
                                     <div class="col">
                                         <h4 class='service-label'>Mastering</h4>
-                                        <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
+                                        <p class='text-white'>Mastering is the final, essential process necessary to prepare your mixes for release</p>
                                     </div>
 
                                 </div>
