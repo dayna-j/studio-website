@@ -25,7 +25,7 @@
         try {
             $conn = new PDO($dsn, $username, $password, $pdoOptions);
             if($conn){
-                echo "connection to db has been made<br>";
+                // echo "connection to db has been made<br>";
                 // var_dump($_SESSION);
                 return $conn;
             } } catch (PDOException $e) {
@@ -63,9 +63,9 @@
     // var_dump($_SESSION);
 
     $conn = login($dsn,$username,$password,$pdoOptions);
-    echo 'after login funct';
+    // echo 'after login funct';
     addToDatabase($conn,$name,$email,$message);
-    echo 'after db funct';
+    // echo 'after db funct';
     // var_dump($_SESSION);
 
     ?>
