@@ -1,5 +1,6 @@
 <?php
 
+    session_start();
     $host='localhost';
     $db = 'katzir_studio_contact';
     $username = 'katzir_daynaj';
