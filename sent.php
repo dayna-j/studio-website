@@ -40,6 +40,8 @@
                 ';
 
         $stmt = $conn->prepare($sqlQuery);
+
+        var_dump($_SESSION);
         
         $stmt->bindValue(':name',$name,':email',$email,':message',$message,':date',$date);
         
