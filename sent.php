@@ -33,13 +33,13 @@
            }
     }
 
-    function addToDatabase($conn,$name,$email,$message,$time){
+    function addToDatabase($conn,$name,$email,$message){
         // global $conn;
         $sqlQuery = '
                 INSERT INTO contact_form
-                     (name,email,message,time)
+                     (name,email,message)
                 VALUES
-                    (:name,:email,:message,:time)
+                    (:name,:email,:message)
                 ';
 
         $stmt = $conn->prepare($sqlQuery);
@@ -54,7 +54,6 @@
             ':name' => $name,
             ':email' => $email,
             ':message' => $message,
-            ':time' => $time
         ]);
 
         var_dump($_SESSION);
@@ -65,7 +64,7 @@
 
     $conn = login($dsn,$username,$password,$pdoOptions);
     echo 'after login funct';
-    addToDatabase($conn,$name,$email,$message,$date);
+    addToDatabase($conn,$name,$email,$message);
     echo 'after db funct';
     // var_dump($_SESSION);
 
