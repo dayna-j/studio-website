@@ -30,9 +30,9 @@
         global $conn;
         $sqlQuery = '
                 INSERT INTO contact_form
-                     (name,email,message, date)
+                     (name,email,message,date)
                 VALUES
-                    (:name,:email,:message)
+                    (:name,:email,:message,:date)
                 ';
 
         $stmt = $conn->prepare($sqlQuery);
