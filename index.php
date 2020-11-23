@@ -25,7 +25,7 @@
                                     </div>
                                     <div class="col">
                                         <h4 class='service-label'>Mixing</h4>
-                                        <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
+                                        <p class='text-white'>Achieve the perfect blend & balance for the individual elements of your track</p>
                                     </div>
                                 </div> <!-- close row -->
                                 <div class="row">
