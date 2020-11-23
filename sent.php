@@ -24,12 +24,10 @@
             if($conn){
                 echo "connection to db has been made<br>";
                 var_dump($_SESSION);
-
                 return $conn;
             } } catch (PDOException $e) {
                 echo $e->getMessage();
            }
-    
     }
 
     function addToDatabase($conn,$name,$email,$message,$date){
@@ -51,12 +49,12 @@
             ':message' => $message,
             ':date' => $date
         ]);
-        
     }
+    var_dump($_SESSION);
 
-    
     $conn = login($dsn,$username,$password,$pdoOptions);
-    
+    var_dump($_SESSION);
+
     addToDatabase($conn,$name,$email,$message,$date);
     // var_dump($conn);
 
