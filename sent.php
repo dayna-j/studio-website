@@ -44,11 +44,11 @@
 
         $stmt = $conn->prepare($sqlQuery);
 
-        var_dump($_SESSION);
+        // var_dump($_SESSION);
         
         // $stmt->bindValue(':name',$name,':email',$email,':message',$message,':date',$date);
         
-        var_dump($_SESSION);
+        // var_dump($_SESSION);
 
         $stmt->execute([
             ':name' => $name,
@@ -56,11 +56,11 @@
             ':message' => $message,
         ]);
 
-        var_dump($_SESSION);
+        // var_dump($_SESSION);
         echo 'never prints';
 
     }
-    var_dump($_SESSION);
+    // var_dump($_SESSION);
 
     $conn = login($dsn,$username,$password,$pdoOptions);
     echo 'after login funct';
