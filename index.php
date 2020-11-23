@@ -66,7 +66,7 @@
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Sound Design</h4>
-                                <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
+                                <p class='text-white'>Sound effects and audio processing for games, music, movies, advertisements and more</p>
                             </div>                        
                         </div>
                     </div>
