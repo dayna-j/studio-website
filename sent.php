@@ -32,7 +32,7 @@
     
     }
 
-    function addToDatabase($conn,$name,$email,$message){
+    function addToDatabase($conn,$name,$email,$message,$date){
         // global $conn;
         $sqlQuery = '
                 INSERT INTO contact_form
@@ -57,7 +57,7 @@
     
     $conn = login($dsn,$username,$password,$pdoOptions);
     
-    addToDatabase($conn,$name,$email,$message);
+    addToDatabase($conn,$name,$email,$message,$date);
     // var_dump($conn);
 
     var_dump($_SESSION);
