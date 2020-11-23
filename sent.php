@@ -60,10 +60,9 @@
     var_dump($_SESSION);
 
     $conn = login($dsn,$username,$password,$pdoOptions);
-
+    echo 'after login funct';
     addToDatabase($conn,$name,$email,$message,$date);
-    // var_dump($conn);
-
+    echo 'after db funct';
     // var_dump($_SESSION);
 
     ?>
