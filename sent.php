@@ -23,6 +23,8 @@
             $conn = new PDO($dsn, $username, $password, $pdoOptions);
             if($conn){
                 echo "connection to db has been made<br>";
+                var_dump($_SESSION);
+
                 return $conn;
             } } catch (PDOException $e) {
                 echo $e->getMessage();
