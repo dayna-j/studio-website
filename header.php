@@ -19,8 +19,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com"> 
-    <link href="https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css2?family=Sofia&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&family=Raleway&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles/scss/dist/main.css">
 </head>
 
@@ -30,7 +30,7 @@
             <header class="">
                 <nav class="navbar navbar-expand-md navbar-dark">
                     <div class="container">
-                        <a href="#" class="navbar-brand">
+                        <a href="./index.php" class="navbar-brand">
                             Moonflower Productions
                         </a>
                         <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" aria-expanded="false" data-target="#main-nav">

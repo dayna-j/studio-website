@@ -90,7 +90,9 @@ header{
 nav{
     // background-color: rgb(163, 39, 39);
     // border-bottom: 1px solid orchid;
-    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+
     height: 95px;
     .navbar-brand{
         color:#f7d4ff !important;
@@ -137,6 +139,11 @@ font-size:25px;
 background:none; 
 border:none;
 color: white;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+
 }
 
 .services-tag{

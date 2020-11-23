@@ -71,6 +71,8 @@ header {
 }
 
 nav {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
   height: 95px;
 }
 nav .navbar-brand {
@@ -104,6 +106,10 @@ nav .nav-link-header {
   background: none;
   border: none;
   color: white;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
 }
 
 .services-tag {

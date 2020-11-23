@@ -19,7 +19,7 @@
 
                                         <div class="icon-container">
                                             
-                                        <?php echo file_get_contents("./img/icons/Equalizer2.svg"); ?>
+                                        <a href="./mixing.php"><?php echo file_get_contents("./img/icons/Equalizer2.svg"); ?></a>
 
                                         </div>
                                     </div>
@@ -32,13 +32,13 @@
                                     <div class="col px-0 d-flex justify-content-center align-items-center">
 
                                         <div class="icon-container">
-                                        <?php echo file_get_contents("./img/icons/frequency2.svg"); ?>
+                                            <a href="./mastering.php"><?php echo file_get_contents("./img/icons/frequency2.svg"); ?></a>
 
                                         </div>
                                     </div>
                                     <div class="col">
                                         <h4 class='service-label'>Mastering</h4>
-                                        <p class='text-white'>Mastering is the final, essential process necessary to prepare your mixes for release</p>
+                                        <p class='text-white'>Mastering is the final essential process required to prepare your mixes for release</p>
                                     </div>
 
                                 </div>
@@ -48,20 +48,19 @@
                             <div class="col px-0 d-flex justify-content-center align-items-center">
                                 <div class="icon-container">
                                 
-                                <?php echo file_get_contents("./img/icons/production.svg"); ?>
+                                <a href="./consult.php"><?php echo file_get_contents("./img/icons/production.svg"); ?></a>
 
                                 </div>
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Production</h4>
-                                <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
+                                <p class='text-white'></p>
                             </div>                        
                         </div>
                         <div class="row">
                             <div class="col px-0 d-flex justify-content-center align-items-center">
                                 <div class="icon-container">
-                                <?php echo file_get_contents("./img/icons/sound_design.svg"); ?>
-                                    
+                                <a href="./consult.php"><?php echo file_get_contents("./img/icons/sound_design.svg"); ?></a>
                                 </div>
                             </div>
                             <div class="col">
@@ -75,27 +74,27 @@
                             <div class="col px-0 d-flex justify-content-center align-items-center">
                                 <div class="icon-container">
 
-                                <?php echo file_get_contents("./img/icons/voice_over.svg"); ?>
+                                <a href="consult.php"><?php echo file_get_contents("./img/icons/voice_over.svg"); ?></a>
 
                                     
                                 </div> <!-- close .icon-container -->
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Voice Over</h4>
-                                <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
+                                <p class='text-white'>On-site and remote voice recording and processing for any Multimedia project</p>
                             </div>                        
                         </div> <!-- close row -->
                         <div class="row">
                             <div class="col px-0 d-flex justify-content-center align-items-center">
                                 <div class="icon-container">
                                 
-                                    <?php echo file_get_contents("./img/icons/post_prod.svg"); ?>
+                                    <a href="./consult.php"><?php echo file_get_contents("./img/icons/post_prod.svg"); ?></a>
 
                                 </div>
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Post Production</h4>
-                                <p class='text-white'>Throw down all the stuff in the kitchen fooled again thinking the dog likes me play.</p>
+                                <p class='text-white'></p>
                             </div>                        
                         </div>
                     </div> <!-- close col -->

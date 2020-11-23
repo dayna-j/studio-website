@@ -31,7 +31,7 @@
                             <div class="logo-container d-flex justify-content-center p-4">
                                 
                                 <div class="logo-wrapper">
-                                    <?php echo file_get_contents("./img/logo2.svg"); ?>
+                                    <a href="./index.php"><?php echo file_get_contents("./img/logo2.svg"); ?></a>
                                 </div>
 
                             </div>
