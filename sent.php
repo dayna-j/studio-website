@@ -49,11 +49,13 @@
             ':message' => $message,
             ':date' => $date
         ]);
+
+        var_dump($_SESSION);
+
     }
     // var_dump($_SESSION);
 
     $conn = login($dsn,$username,$password,$pdoOptions);
-    var_dump($_SESSION);
 
     addToDatabase($conn,$name,$email,$message,$date);
     // var_dump($conn);
