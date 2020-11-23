@@ -15,7 +15,7 @@
         PDO::ATTR_EMULATE_PREPARES => false
     );
     
-    $date = date('Y-m-d H:i:s');/////////////////////////////////////////
+    $time = date('Y-m-d H:i:s');/////////////////////////////////////////
     $name = $_SESSION['name'];
     $email = $_SESSION['email'];
     $message = $_SESSION['message'];
@@ -33,13 +33,13 @@
            }
     }
 
-    function addToDatabase($conn,$name,$email,$message,$date){
+    function addToDatabase($conn,$name,$email,$message,$time){
         // global $conn;
         $sqlQuery = '
                 INSERT INTO contact_form
-                     (name,email,message,date)
+                     (name,email,message,time)
                 VALUES
-                    (:name,:email,:message,:date)
+                    (:name,:email,:message,:time)
                 ';
 
         $stmt = $conn->prepare($sqlQuery);
@@ -54,7 +54,7 @@
             ':name' => $name,
             ':email' => $email,
             ':message' => $message,
-            ':date' => $date
+            ':time' => $time
         ]);
 
         var_dump($_SESSION);
