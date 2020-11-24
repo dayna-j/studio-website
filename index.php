@@ -81,7 +81,7 @@
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Voice Over</h4>
-                                <p class='text-white'>On-site and remote voice recording and processing for any Multimedia project</p>
+                                <p class='text-white'>On-site and on-location voice recording and processing for any Multimedia project</p>
                             </div>                        
                         </div> <!-- close row -->
                         <div class="row">
@@ -94,7 +94,7 @@
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Post Production</h4>
-                                <p class='text-white'>On-site and remote voice recording and processing for any Multimedia project</p>
+                                <p class='text-white'>On-site and on-location voice recording and processing for any Multimedia project</p>
                             </div>                        
                         </div>
                     </div> <!-- close col -->
