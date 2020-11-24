@@ -138,5 +138,28 @@
                 </div>
             </section>
 
+            <section id='about-section'>
+                <div class="row">
+                    
+                
+                    <div class="col">
+                        <h1>Who we are.</h1>
+                        <h3>Moonflower Productions is an audio production house located in the heart of the metro Phoenix area.
+</h3>
+                    </div>
+                    
+                    
+                    
+                    
+                    <div class="col">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</> </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</> </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</> </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</> </p>
+                    </div>
+
+                </div>
+            </section>
+
 
 <?php include("./footer.php"); ?>
