@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,9 +13,9 @@
    x="0px"
    y="0px"
    version="1.1"
-   id="svg1261" 
-   class="service-icon" 
-   sodipodi:docname="microphone2.svg"
+   id="svg1261"
+   class="service-icon"
+   sodipodi:docname="voice_over.svg"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
   <metadata
      id="metadata1267">
@@ -172,51 +173,56 @@
      showgrid="false"
      inkscape:zoom="7.128"
      inkscape:cx="50"
-     inkscape:cy="55.64367"
+     inkscape:cy="71.840615"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1261" />
+     inkscape:current-layer="svg1261"
+     inkscape:document-rotation="0" />
   <title
      id="title1241">A</title>
-  <path
-     d="M72.63116,37.67157A2.5,2.5,0,0,0,70.131,40.17175V59.21283c0,10.59875-8.46631,18.29108-20.131,18.29108S29.869,69.81158,29.869,59.21283V40.17175a2.50016,2.50016,0,1,0-5.00031,0V59.21283c0,12.86884,9.61322,22.36615,23.13117,23.22162v7.56524H33.49908a2.50016,2.50016,0,0,0,0,5.00031H66.50092a2.50016,2.50016,0,1,0,0-5.00031H52.00012V82.43445c13.518-.85547,23.13117-10.35278,23.13117-23.22162V40.17175A2.5,2.5,0,0,0,72.63116,37.67157Z"
-     id="path1243"
-     style="fill:#005600;fill-opacity:1" />
-  <rect
-     x="35.37018"
-     y="49.89734"
-     width="29.2597"
-     height="5.70032"
-     id="rect1245"
-     style="fill-opacity:1;fill:url(#linearGradient2437)" />
-  <rect
-     x="35.37018"
-     y="30.89624"
-     width="29.2597"
-     height="5.70038"
-     id="rect1247"
-     style="fill-opacity:1;fill:url(#linearGradient2439)" />
-  <rect
-     x="35.37018"
-     y="40.39679"
-     width="29.2597"
-     height="5.70032"
-     id="rect1249"
-     style="fill-opacity:1;fill:url(#linearGradient2441)" />
-  <path
-     d="M64.62,59.39789H35.38007C35.59344,76.19189,64.40662,76.19189,64.62,59.39789Z"
-     id="path1251"
-     style="fill-opacity:1;fill:url(#linearGradient2443)" />
-  <rect
-     x="35.37018"
-     y="21.39575"
-     width="29.2597"
-     height="5.70032"
-     id="rect1253"
-     style="fill-opacity:1;fill:url(#linearGradient2445)" />
-  <path
-     d="M35.38007,17.59552H64.62C64.40674.80151,35.59332.80151,35.38007,17.59552Z"
-     id="path1255"
-     style="fill-opacity:1;fill:url(#linearGradient2447)" />
+  <g
+     id="g5640"
+     transform="translate(1.249676e-5,12.499991)">
+    <path
+       d="M 72.63116,37.67157 A 2.5,2.5 0 0 0 70.131,40.17175 v 19.04108 c 0,10.59875 -8.46631,18.29108 -20.131,18.29108 -11.66469,0 -20.131,-7.69233 -20.131,-18.29108 V 40.17175 a 2.50016,2.50016 0 1 0 -5.00031,0 v 19.04108 c 0,12.86884 9.61322,22.36615 23.13117,23.22162 v 7.56524 H 33.49908 a 2.50016,2.50016 0 0 0 0,5.00031 h 33.00184 a 2.50016,2.50016 0 1 0 0,-5.00031 H 52.00012 V 82.43445 C 65.51812,81.57898 75.13129,72.08167 75.13129,59.21283 V 40.17175 a 2.5,2.5 0 0 0 -2.50013,-2.50018 z"
+       id="path1243"
+       style="fill:#005600;fill-opacity:1" />
+    <rect
+       x="35.370178"
+       y="49.897339"
+       width="29.259701"
+       height="5.7003198"
+       id="rect1245"
+       style="fill:url(#linearGradient2437);fill-opacity:1" />
+    <rect
+       x="35.370178"
+       y="30.89624"
+       width="29.259701"
+       height="5.7003798"
+       id="rect1247"
+       style="fill:url(#linearGradient2439);fill-opacity:1" />
+    <rect
+       x="35.370178"
+       y="40.39679"
+       width="29.259701"
+       height="5.7003198"
+       id="rect1249"
+       style="fill:url(#linearGradient2441);fill-opacity:1" />
+    <path
+       d="M 64.62,59.39789 H 35.38007 c 0.21337,16.794 29.02655,16.794 29.23993,0 z"
+       id="path1251"
+       style="fill:url(#linearGradient2443);fill-opacity:1" />
+    <rect
+       x="35.370178"
+       y="21.39575"
+       width="29.259701"
+       height="5.7003198"
+       id="rect1253"
+       style="fill:url(#linearGradient2445);fill-opacity:1" />
+    <path
+       d="M 35.38007,17.59552 H 64.62 c -0.21326,-16.79401 -29.02668,-16.79401 -29.23993,0 z"
+       id="path1255"
+       style="fill:url(#linearGradient2447);fill-opacity:1" />
+  </g>
 </svg>
