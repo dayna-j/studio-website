@@ -88,13 +88,13 @@
                             <div class="col px-0 d-flex justify-content-center align-items-center">
                                 <div class="icon-container">
                                 
-                                    <a href="./consult.php"><?php echo file_get_contents("./img/icons/post_prod.svg"); ?></a>
+                                    <a href="./consult.php"><?php echo file_get_contents("./img/icons/ear.svg"); ?></a>
 
                                 </div>
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Post Production</h4>
-                                <p class='text-white'></p>
+                                <p class='text-white'>On-site and remote voice recording and processing for any Multimedia project</p>
                             </div>                        
                         </div>
                     </div> <!-- close col -->

@@ -102,7 +102,7 @@ nav{
     }
     #main-nav{
         height: 95px;
-        
+        // text-transform: uppercase;
 
         ul{
             height: 95px;
@@ -259,6 +259,10 @@ footer{
     &:hover{
         fill:#cfd3ca;
     }
+}
+
+#ear-icon{
+    transform: rotate(7deg);
 }
 
 .logo-container{

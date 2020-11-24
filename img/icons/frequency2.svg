@@ -11,13 +11,12 @@
    x="0px"
    y="0px"
    viewBox="0 0 512 640"
-   style="enable-background:new 0 0 512 512;"
    xml:space="preserve"
    id="svg911"
-   class="service-icon" 
-
+   class="service-icon"
    sodipodi:docname="frequency2.svg"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   style="enable-background:new 0 0 512 512;"><metadata
      id="metadata917"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -35,8 +34,8 @@
      id="namedview913"
      showgrid="false"
      inkscape:zoom="0.92255338"
-     inkscape:cx="7.9884236"
-     inkscape:cy="344.76687"
+     inkscape:cx="-38.111576"
+     inkscape:cy="194.75487"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"

@@ -195,6 +195,10 @@ footer {
   fill: #cfd3ca;
 }
 
+#ear-icon {
+  transform: rotate(7deg);
+}
+
 .logo-container {
   padding-bottom: 10px !important;
 }
