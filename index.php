@@ -54,7 +54,7 @@
                             </div>
                             <div class="col">
                                 <h4 class='service-label'>Production</h4>
-                                <p class='text-white'></p>
+                                <p class='text-white'>Midi sequencing, arrangement, beat production, backing tracks and more</p>
                             </div>                        
                         </div>
                         <div class="row">
