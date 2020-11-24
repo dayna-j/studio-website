@@ -139,22 +139,22 @@
             </section>
 
             <section id='about-section'>
+                <div class="about-section-wrapper">
                 <div class="row">
                     
                 
                     <div class="col">
-                        <h1>Who we are.</h1>
-                        <h3>Moonflower Productions is an audio production house located in the heart of the metro Phoenix area.
-</h3>
+                        <h1 class='text-white'>Who we are.</h1>
+                        <h3>Moonflower Productions is an audio production house located in the heart of the metro Phoenix area.</h3>
                     </div>
-                    
-                    
-                    
-                    
+                                        
                     <div class="col">
-                        
+                    <p><span class='emphasize'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
+                    <p><span class='emphasize'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
+                    <p><span class='emphasize'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
                     </div>
 
+                </div>
                 </div>
             </section>
 
