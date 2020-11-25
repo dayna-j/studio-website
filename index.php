@@ -149,9 +149,9 @@
                         </div>
                                         
                         <div class="col">
-                            <p class='text-white-50'><span class='emphasize'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
-                            <p class='text-white-50'><span class='emphasize'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
-                            <p class='text-white-50'><span class='emphasize'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
+                            <p class='text-white-50'><span class='emphasize'>Audio is our expertise.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
+                            <p class='text-white-50'><span class='emphasize'>We understand your vision.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
+                            <p class='text-white-50'><span class='emphasize'>Collaboration is our strength.</span> Mollitia aliquid voluptatibus eaque minus voluptates nulla praesentium enim temporibus ut illum earum deserunt consequuntur maiores autem ducimus, hic harum facere quas.</p>
                         </div>
 
                     </div>

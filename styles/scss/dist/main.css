@@ -152,6 +152,11 @@ h2 {
 
 #about-section {
   background-color: black;
+  line-height: 1.6em;
+  letter-spacing: 0.06em;
+}
+#about-section p {
+  font-size: 20px;
 }
 
 .about-section-wrapper {
@@ -272,7 +277,7 @@ Bootstrap 4 breakpoints
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   h1, h2 {
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
 
   /*1rem = 16px*/
@@ -280,7 +285,7 @@ Bootstrap 4 breakpoints
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   h1, h2 {
-    font-size: 3rem;
+    font-size: 3.9rem;
   }
 
   /*1rem = 16px*/
