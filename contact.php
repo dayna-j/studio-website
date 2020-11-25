@@ -109,12 +109,16 @@ AND isset($_POST['message'])){
             </section>
 
            <section id='contact-section' class='p-3'>
-
+                <div class="contact-section-wrapper d-flex flex-column p-4">
                 <div class="row justify-content-center">
 
                     <div class="col-lg-6">
+                        <h1 class='text-white'>Lets Create Together</h1>
+                        <h3 class='text-white-50'>Contact us however you prefer and we'll get back to you right away</h3>
+                    </div>
+                    <div class="col-lg-6">
 
-                        <h3 class='text-center form-header p-4'>Want to work with us?</h3>
+                        <!-- <h3 class='text-center form-header p-4'>Want to work with us?</h3> -->
                         <form method="POST" action="./contact.php">
 
                             <div class="form-row">
@@ -147,7 +151,7 @@ AND isset($_POST['message'])){
 
                             <div class="form-row">
 
-                                <div class="form-field d-flex justify-content-center col x-10 p-4">
+                                <div class="form-field d-flex justify-content-start col x-10 p-4">
                                     <input class="submit-button" type="submit" value="GET IN TOUCH">
                                 </div>
 
@@ -157,8 +161,9 @@ AND isset($_POST['message'])){
 
                     </div>
 
-                </div>
 
+                </div>
+                </div>
            </section>
 
            <?php include("./footer.php"); ?>
